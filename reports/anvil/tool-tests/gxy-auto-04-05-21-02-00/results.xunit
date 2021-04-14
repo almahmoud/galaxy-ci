@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="62"
+           errors="0"
+           failures="2"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/replace_column_by_key_value_file/replace_column_with_key_value_file/0.2 (Test #1)" name="0" time="29.8614444732666">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/replace_column_by_key_value_file/replace_column_with_key_value_file/0.2 (Test #2)" name="1" time="81.09105706214905">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/replace_column_by_key_value_file/replace_column_with_key_value_file/0.2 (Test #3)" name="2" time="61.127009868621826">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            Traceback (most recent call last):  File "/galaxy/server/database/jobs_directory/000/36/configs/tmpi82em5y0", line 39, in <module>    raise Exception('ERROR: Encountered a value [%s] in the file that is not in the replacements file and is not commented with [%s]' % (line_content_column, comment_str))Exception: ERROR: Encountered a value [NC_000964.33] in the file that is not in the replacements file and is not commented with [#]
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/replace_column_by_key_value_file/replace_column_with_key_value_file/0.2 (Test #4)" name="3" time="38.80856156349182">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_awk_tool/1.1.2 (Test #1)" name="0" time="42.62133193016052">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #1)" name="0" time="57.31364560127258">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #2)" name="1" time="85.27682375907898">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #3)" name="2" time="88.06008434295654">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #4)" name="3" time="28.074195861816406">
+        
+            
+            <system-out><![CDATA[
+            Kept 0 of 2 reads (0.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #5)" name="4" time="26.96422266960144">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #6)" name="5" time="33.04310083389282">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #7)" name="6" time="25.54893660545349">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #8)" name="7" time="29.46889901161194">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 2 reads (100.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_filter/fastq_filter/1.1.5 (Test #9)" name="8" time="25.25069308280945">
+        
+            
+            <system-out><![CDATA[
+            Kept 0 of 2 reads (0.00%).
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #1)" name="0" time="21.4384708404541">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #2)" name="1" time="23.661067008972168">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #11)" name="10" time="20.606916427612305">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 illumina reads into solexa reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 0 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #12)" name="11" time="19.67742896080017">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 illumina reads into cssanger reads.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 0 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #13)" name="12" time="22.90779948234558">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #14)" name="13" time="19.20417594909668">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into illumina reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #15)" name="14" time="19.56308627128601">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into solexa reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #16)" name="15" time="17.98327612876892">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into cssanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #17)" name="16" time="19.146730422973633">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into solexa reads.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #18)" name="17" time="28.99691152572632">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into illumina reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #19)" name="18" time="20.234447479248047">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into sanger reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #20)" name="19" time="20.582183361053467">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into cssanger reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #3)" name="2" time="23.375202655792236">
+        
+            
+                <error type="error" message="Tool exit code: 1"><![CDATA[
+                    { "inputs": {  "input_file": {   "id": "662a5e1a526ba9f7",   "src": "hda"  },  "input_type": "sanger",  "options_type|fix_id": false,  "options_type|options_type_selector": "advanced" }, "job": {  "command_line": "gx-fastq-groomer \u0027/galaxy/server/database/objects/c/1/a/dataset_c1ae5262-44f9-4b5f-94d5-0514216e27dc.dat\u0027 sanger \u0027/galaxy/server/database/objects/5/7/3/dataset_573c8449-515f-4554-821f-9e9bc954ff94.dat\u0027 sanger ascii summarize_input --no-fix-id",  "command_version": "",  "create_time": "2021-04-05T21:18:32.888490",  "exit_code": 1,  "external_id": "gxy-vp7vz",  "galaxy_version": "20.09",  "history_id": "9e042f3eb28bf58d",  "id": "2bb03be20fa5f772",  "inputs": {   "input_file": {    "id": "662a5e1a526ba9f7",    "src": "hda",    "uuid": "c1ae5262-44f9-4b5f-94d5-0514216e27dc"   }  },  "job_messages": [],  "job_metrics": [   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "0E-7",    "title": "Job Runtime (Wall Clock)",    "value": "0 seconds"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617657526.0000000",    "title": "Job End Time",    "value": "2021-04-05 21:18:46"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617657526.0000000",    "title": "Job Start Time",    "value": "2021-04-05 21:18:46"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   }  ],  "job_stderr": "Traceback (most recent call last):\n  File \"/usr/local/bin/gx-fastq-groomer\", line 10, in \u003cmodule\u003e\n    sys.exit(main())\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py\", line 99, in main\n    Groomer().run()\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py\", line 48, in run\n    for read_count, fastq_read in enumerate(reader):\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 683, in __iter__\n    yield next(self)\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 742, in __next__\n    raise e\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 724, in __next__\n    block = super(fastqVerboseErrorReader, self).__next__()\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 621, in __next__\n    self._read_fastq_sequence(rval, id_line)\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 666, in _read_fastq_sequence\n    raise fastqFormatError(\ngalaxy_utils.sequence.fastq.fastqFormatError: Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).\n",  "job_stdout": "There was an error reading your input file. Your input file is likely malformed.\nIt is suggested that you double-check your original input file for errors -- helpful information for this purpose has been provided below.\nHowever, if you think that you have encountered an actual error with this tool, please do tell us by using the bug reporting mechanism.\n\nThe reported error is: \u0027Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).\u0027.\nThe error occurred at the start of your file and no valid FASTQ reads were found.\nThe error in your file occurs between lines \u00271\u0027 and \u00273\u0027, which corresponds to byte-offsets \u00270\u0027 and \u002733\u0027, and contains the text (33 of 33 bytes shown):\n\n@FAKE-1\nACGTACGTAC\n+invalid line\n\n",  "model_class": "Job",  "outputs": {   "output_file": {    "id": "2bb03be20fa5f772",    "src": "hda",    "uuid": "573c8449-515f-4554-821f-9e9bc954ff94"   }  },  "params": {   "__input_ext": "\"fastq\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "input_type": "\"sanger\"",   "options_type": "{\"__current_case__\": 1, \"fix_id\": \"false\", \"force_quality_encoding\": \"ascii\", \"options_type_selector\": \"advanced\", \"output_type\": \"sanger\", \"summarize_input\": \"summarize_input\"}"  },  "state": "ok",  "stderr": "\nTraceback (most recent call last):\n  File \"/usr/local/bin/gx-fastq-groomer\", line 10, in \u003cmodule\u003e\n    sys.exit(main())\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py\", line 99, in main\n    Groomer().run()\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py\", line 48, in run\n    for read_count, fastq_read in enumerate(reader):\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 683, in __iter__\n    yield next(self)\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 742, in __next__\n    raise e\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 724, in __next__\n    block = super(fastqVerboseErrorReader, self).__next__()\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 621, in __next__\n    self._read_fastq_sequence(rval, id_line)\n  File \"/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py\", line 666, in _read_fastq_sequence\n    raise fastqFormatError(\ngalaxy_utils.sequence.fastq.fastqFormatError: Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).\n",  "stdout": "\nThere was an error reading your input file. Your input file is likely malformed.\nIt is suggested that you double-check your original input file for errors -- helpful information for this purpose has been provided below.\nHowever, if you think that you have encountered an actual error with this tool, please do tell us by using the bug reporting mechanism.\n\nThe reported error is: \u0027Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).\u0027.\nThe error occurred at the start of your file and no valid FASTQ reads were found.\nThe error in your file occurs between lines \u00271\u0027 and \u00273\u0027, which corresponds to byte-offsets \u00270\u0027 and \u002733\u0027, and contains the text (33 of 33 bytes shown):\n\n@FAKE-1\nACGTACGTAC\n+invalid line\n\n",  "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-04-05T21:18:49.230681",  "user_email": "alex@fake.org" }, "output_problems": [  "Expected job to fail but Galaxy indicated the job successfully completed." ], "status": "failure", "test_index": 2, "time_seconds": 23.375202655792236, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5", "tool_version": "1.1.5"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            There was an error reading your input file. Your input file is likely malformed.It is suggested that you double-check your original input file for errors -- helpful information for this purpose has been provided below.However, if you think that you have encountered an actual error with this tool, please do tell us by using the bug reporting mechanism.The reported error is: 'Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).'.The error occurred at the start of your file and no valid FASTQ reads were found.The error in your file occurs between lines '1' and '3', which corresponds to byte-offsets '0' and '33', and contains the text (33 of 33 bytes shown):@FAKE-1ACGTACGTAC+invalid line
+            ]]></system-out>
+            <system-err><![CDATA[
+            Traceback (most recent call last):  File "/usr/local/bin/gx-fastq-groomer", line 10, in <module>    sys.exit(main())  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py", line 99, in main    Groomer().run()  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/scripts/fastq_groomer.py", line 48, in run    for read_count, fastq_read in enumerate(reader):  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py", line 683, in __iter__    yield next(self)  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py", line 742, in __next__    raise e  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py", line 724, in __next__    block = super(fastqVerboseErrorReader, self).__next__()  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py", line 621, in __next__    self._read_fastq_sequence(rval, id_line)  File "/usr/local/lib/python3.8/site-packages/galaxy_utils/sequence/fastq.py", line 666, in _read_fastq_sequence    raise fastqFormatError(galaxy_utils.sequence.fastq.fastqFormatError: Invalid FASTQ file: quality score identifier (+invalid line)                         does not match sequence identifier (@FAKE-1).
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #21)" name="20" time="41.748865365982056">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into cssanger reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #22)" name="21" time="35.82879686355591">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #23)" name="22" time="30.345054388046265">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into illumina reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #24)" name="23" time="30.773538827896118">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into solexa reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #25)" name="24" time="19.246264219284058">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into cssanger reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #26)" name="25" time="31.673296213150024">
+        
+            
+            <system-out><![CDATA[
+            Groomed 3 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '"'(34) - 'F'(70)Input decimal range: 1 - 37
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #27)" name="26" time="28.992151498794556">
+        
+            
+            <system-out><![CDATA[
+            Groomed 3 sanger reads into illumina reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '"'(34) - 'F'(70)Input decimal range: 1 - 37
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #28)" name="27" time="24.939587116241455">
+        
+            
+            <system-out><![CDATA[
+            Groomed 3 sanger reads into solexa reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '"'(34) - 'F'(70)Input decimal range: 1 - 37
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #29)" name="28" time="35.14013481140137">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #30)" name="29" time="55.3445405960083">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #4)" name="3" time="22.057215929031372">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #31)" name="30" time="56.140904903411865">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #32)" name="31" time="50.86098265647888">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into solexa reads.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #33)" name="32" time="17.46188259124756">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into solexa reads.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #34)" name="33" time="19.81585931777954">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger.gz reads into sanger reads.Based upon quality and sequence, the input data is valid for: sanger, sanger.gz, sanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #35)" name="34" time="17.07905912399292">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger.bz2 reads into cssanger reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #5)" name="4" time="17.368287324905396">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 cssanger reads into cssanger reads.Based upon quality and sequence, the input data is valid for: cssanger, cssanger.gz, cssanger.bz2Input ASCII range: '!'(33) - '~'(126)Input decimal range: 0 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #6)" name="5" time="17.568185091018677">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 illumina reads into sanger reads.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 0 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #7)" name="6" time="20.523048639297485">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 solexa reads into sanger reads.Converted between Solexa and PHRED scores.Based upon quality and sequence, the input data is valid for: solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: ';'(59) - '~'(126)Input decimal range: -5 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #8)" name="7" time="20.875563383102417">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 sanger reads into sanger reads.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 31 - 93
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #9)" name="8" time="19.500656366348267">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 illumina reads into illumina reads.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 0 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/fastq_groomer/fastq_groomer/1.1.5 (Test #10)" name="9" time="18.412835597991943">
+        
+            
+            <system-out><![CDATA[
+            Groomed 2 illumina reads into sanger reads.Based upon quality and sequence, the input data is valid for: illumina, illumina.gz, illumina.bz2, solexa, solexa.gz, solexa.bz2, sanger, sanger.gz, sanger.bz2Input ASCII range: '@'(64) - '~'(126)Input decimal range: 0 - 62
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/column_order_header_sort/column_order_header_sort/0.0.1 (Test #1)" name="0" time="30.092734575271606">
+        
+            
+                <error type="error" message="Tool exit code: 0"><![CDATA[
+                    { "inputs": {  "input_tabular": {   "id": "3f44c9ed66b578db",   "src": "hda"  },  "key_column": "1" }, "job": {  "command_line": "python \u0027/cvmfs/main.galaxyproject.org/shed_tools/toolshed.g2.bx.psu.edu/repos/iuc/column_order_header_sort/6ae9724caf4d/column_order_header_sort/column_order_header_sort.py\u0027 \u0027/galaxy/server/database/objects/d/c/2/dataset_dc22e65e-9b8c-46d2-ad66-5a9d2e25a038.dat\u0027 \u0027/galaxy/server/database/objects/4/4/9/dataset_4492da68-a474-4adc-a3fd-ad6c759527c2.dat\u0027 \u0027\t\u0027 \u00271\u0027",  "command_version": "",  "create_time": "2021-04-05T21:14:44.498444",  "exit_code": 0,  "external_id": "gxy-b42hn",  "galaxy_version": "20.09",  "history_id": "9e042f3eb28bf58d",  "id": "3265c8644fc2acff",  "inputs": {   "input_tabular": {    "id": "3f44c9ed66b578db",    "src": "hda",    "uuid": "dc22e65e-9b8c-46d2-ad66-5a9d2e25a038"   }  },  "job_messages": [],  "job_metrics": [   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617657303.0000000",    "title": "Job Start Time",    "value": "2021-04-05 21:15:03"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617657303.0000000",    "title": "Job End Time",    "value": "2021-04-05 21:15:03"   },   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "0E-7",    "title": "Job Runtime (Wall Clock)",    "value": "0 seconds"   }  ],  "job_stderr": "",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "output_tabular": {    "id": "3265c8644fc2acff",    "src": "hda",    "uuid": "4492da68-a474-4adc-a3fd-ad6c759527c2"   }  },  "params": {   "__input_ext": "\"tabular\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "key_column": "\"1\""  },  "state": "ok",  "stderr": "",  "stdout": "",  "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/column_order_header_sort/column_order_header_sort/0.0.1",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-04-05T21:15:05.943875",  "user_email": "alex@fake.org" }, "output_problems": [  "Output output_tabular:  different than expected, difference (using diff):\n( /tmp/tmphjbgm8lvout_1.tabular v. /tmp/tmp9sc27r2kout_1.tabular )\n--- local_file\n+++ history_data\n@@ -1,4 +1,4 @@\n #KEY\ta\tb\tc\n one\t1-3\t1-1\t1-2\n two\t1-6\t1-4\t1-5\n-three\t1-9\t1-7\t1-8+three\t1-9\t1-7\t1-8\n" ], "status": "failure", "test_index": 0, "time_seconds": 30.092734575271606, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/column_order_header_sort/column_order_header_sort/0.0.1", "tool_version": "0.0.1"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/column_remove_by_header/column_remove_by_header/0.0.1 (Test #1)" name="0" time="67.84135627746582">
+        
+            
+            <system-out><![CDATA[
+            Kept 3 of 4 columns.
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/column_remove_by_header/column_remove_by_header/0.0.1 (Test #2)" name="1" time="53.85382652282715">
+        
+            
+            <system-out><![CDATA[
+            Kept 2 of 4 columns.
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/datamash_ops/datamash_ops/1.1.0 (Test #1)" name="0" time="58.62951469421387">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/datamash_reverse/datamash_reverse/1.1.0 (Test #1)" name="0" time="54.28248071670532">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/datamash_transpose/datamash_transpose/1.1.0 (Test #1)" name="0" time="31.692136764526367">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/gff3_rebase/gff3.rebase/1.2 (Test #1)" name="0" time="51.2263970375061">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jq/jq/1.0 (Test #1)" name="0" time="25.220317840576172">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jq/jq/1.0 (Test #2)" name="1" time="24.167093992233276">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/reshape2_cast/cast/1.4.2 (Test #1)" name="0" time="22.488003730773926">
+        
+            
+            <system-out><![CDATA[
+            options(show.error.messages=F, error=function(){cat(geterrmessage(),file=stderr());q("no",1,F)})loc <- Sys.setlocale("LC_MESSAGES", "en_US.UTF-8")library("reshape2")input <- read.csv('/galaxy/server/database/objects/6/8/f/dataset_68f4f529-a7d6-46b2-97ca-955bb1ed7385.dat', sep='\t', header=TRUE)cinput <- dcast(input, ... ~ variable)write.table(cinput, "output.tabular", sep="\t", quote=FALSE, row.names=FALSE)        
+            ]]></system-out>
+            <system-err><![CDATA[
+            Warning message:In Sys.setlocale("LC_MESSAGES", "en_US.UTF-8") :  OS reports request to set locale to "en_US.UTF-8" cannot be honored
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/reshape2_melt/melt/1.4.2 (Test #1)" name="0" time="31.309767484664917">
+        
+            
+            <system-out><![CDATA[
+            options(show.error.messages=F, error=function(){cat(geterrmessage(),file=stderr());q("no",1,F)})loc <- Sys.setlocale("LC_MESSAGES", "en_US.UTF-8")library("reshape2")input <- read.csv('/galaxy/server/database/objects/8/e/d/dataset_8ed25ee3-bd4e-4f30-ac19-8ab33f627fd7.dat', sep='\t', header=TRUE)minput <- melt(input)write.table(minput, "output.tabular", sep="\t", quote=FALSE, row.names=FALSE)        
+            ]]></system-out>
+            <system-err><![CDATA[
+            Warning message:In Sys.setlocale("LC_MESSAGES", "en_US.UTF-8") :  OS reports request to set locale to "en_US.UTF-8" cannot be honoredUsing brand as id variables
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/mvdbeek/add_input_name_as_column/addName/0.2.0 (Test #1)" name="0" time="47.779743671417236">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/mvdbeek/add_input_name_as_column/addName/0.2.0 (Test #2)" name="1" time="47.80765223503113">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+</testsuite>

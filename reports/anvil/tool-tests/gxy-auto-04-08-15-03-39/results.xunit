@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="19"
+           errors="2"
+           failures="1"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfannotate/vcfannotate/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="37.65201711654663">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfannotategenotypes/vcfannotategenotypes/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="39.285449743270874">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfbedintersect/vcfbedintersect/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="34.02445602416992">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfbedintersect/vcfbedintersect/1.0.0_rc3+galaxy0 (Test #2)" name="1" time="31.87257409095764">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfbreakcreatemulti/vcfbreakcreatemulti/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="16.419687509536743">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfbreakcreatemulti/vcfbreakcreatemulti/1.0.0_rc3+galaxy0 (Test #2)" name="1" time="18.430363178253174">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfcheck/vcfcheck/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="23.40470290184021">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            index file localref.fa.fai not found, generating...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfcombine/vcfcombine/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="24.78918981552124">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfcommonsamples/vcfcommonsamples/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="22.70319151878357">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcffixup/vcffixup/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="21.366681575775146">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfflatten/vcfflatten2/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="17.23751187324524">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfgeno2haplo/vcfgeno2haplo/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="19.39731454849243">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            index file localref.fa.fai not found, generating...no alternate alleles remain at phiX174:1015 after haplotype validation
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfgenotypes/vcfgenotypes/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="18.9458589553833">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfhethom/vcfhethom/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="23.514546632766724">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfhethom/vcfhethom/1.0.0_rc3+galaxy0 (Test #2)" name="1" time="23.626343965530396">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfhethom/vcfhethom/1.0.0_rc3+galaxy0 (Test #3)" name="2" time="20.215989351272583">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfleftalign/vcfleftalign/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="149.45397019386292">
+        
+            
+                <error type="error" message="Tool exit code: 0"><![CDATA[
+                    { "inputs": {  "input_vcf": {   "id": "311513b9ef52f67c",   "src": "hda"  },  "reference_source|ref_file": {   "id": "baf3271700a1928a",   "src": "hda"  },  "reference_source|reference_source_selector": "history",  "window_size": "150" }, "job": {  "command_line": "ln -s \u0027/galaxy/server/database/objects/7/3/e/dataset_73ef2fa3-b7c4-4054-9802-bac2f46b65c5.dat\u0027 \u0027localref.fa\u0027 \u0026\u0026 vcfleftalign -r \u0027localref.fa\u0027 -w \"150\" \u0027/galaxy/server/database/objects/4/e/7/dataset_4e743a48-98f8-4886-845f-0280a800390a.dat\u0027 \u003e \u0027/galaxy/server/database/objects/c/e/7/dataset_ce7ed760-212c-4e36-965a-a402e7c13f68.dat\u0027",  "command_version": "",  "create_time": "2021-04-08T15:17:48.629001",  "exit_code": 0,  "external_id": "gxy-jc9tw",  "galaxy_version": "20.09",  "history_id": "80c005f201899cc7",  "id": "751024532dc20f2b",  "inputs": {   "input_vcf": {    "id": "311513b9ef52f67c",    "src": "hda",    "uuid": "4e743a48-98f8-4886-845f-0280a800390a"   },   "ref_file": {    "id": "baf3271700a1928a",    "src": "hda",    "uuid": "73ef2fa3-b7c4-4054-9802-bac2f46b65c5"   }  },  "job_messages": [],  "job_metrics": [   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617895076.0000000",    "title": "Job Start Time",    "value": "2021-04-08 15:17:56"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617895076.0000000",    "title": "Job End Time",    "value": "2021-04-08 15:17:56"   },   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "0E-7",    "title": "Job Runtime (Wall Clock)",    "value": "0 seconds"   }  ],  "job_stderr": "index file localref.fa.fai not found, generating...\n",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "out_file1": {    "id": "751024532dc20f2b",    "src": "hda",    "uuid": "ce7ed760-212c-4e36-965a-a402e7c13f68"   }  },  "params": {   "__input_ext": "\"vcf\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "reference_source": "{\"__current_case__\": 1, \"ref_file\": {\"values\": [{\"id\": 40, \"src\": \"hda\"}]}, \"reference_source_selector\": \"history\"}",   "window_size": "\"150\""  },  "state": "ok",  "stderr": "\nindex file localref.fa.fai not found, generating...\n",  "stdout": "",  "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcfleftalign/vcfleftalign/1.0.0_rc3+galaxy0",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-04-08T15:17:57.978829",  "user_email": "alex@fake.org" }, "output_problems": [  "HTTPConnectionPool(host=\u002735.196.45.205\u0027, port=8000): Max retries exceeded with url: /galaxy/api/jobs/751024532dc20f2b (Caused by NewConnectionError(\u0027\u003curllib3.connection.HTTPConnection object at 0x7f3558e06760\u003e: Failed to establish a new connection: [Errno 110] Connection timed out\u0027))" ], "status": "failure", "test_index": 0, "time_seconds": 149.45397019386292, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcfleftalign/vcfleftalign/1.0.0_rc3+galaxy0", "tool_version": "1.0.0_rc3+galaxy0"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            index file localref.fa.fai not found, generating...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfprimers/vcfprimers/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="137.99372363090515">
+        
+            <error type="error" message="Input staging problem: HTTPConnectionPool(host='35.196.45.205', port=8000): Max retries exceeded with url: /galaxy/api/jobs/998a066d2979bd5b (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3558dff400>: Failed to establish a new connection: [Errno 110] Connection timed out'))"><![CDATA[
+                { "execution_problem": "Input staging problem: HTTPConnectionPool(host=\u002735.196.45.205\u0027, port=8000): Max retries exceeded with url: /galaxy/api/jobs/998a066d2979bd5b (Caused by NewConnectionError(\u0027\u003curllib3.connection.HTTPConnection object at 0x7f3558dff400\u003e: Failed to establish a new connection: [Errno 110] Connection timed out\u0027))", "status": "error", "test_index": 0, "time_seconds": 137.99372363090515, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcfprimers/vcfprimers/1.0.0_rc3+galaxy0", "tool_version": "1.0.0_rc3+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfrandomsample/vcfrandomsample/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="135.75437092781067">
+        
+            <error type="error" message="Input staging problem: HTTPConnectionPool(host='35.196.45.205', port=8000): Max retries exceeded with url: /galaxy/api/jobs/6b288d92c2882305 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3558dd2af0>: Failed to establish a new connection: [Errno 110] Connection timed out'))"><![CDATA[
+                { "execution_problem": "Input staging problem: HTTPConnectionPool(host=\u002735.196.45.205\u0027, port=8000): Max retries exceeded with url: /galaxy/api/jobs/6b288d92c2882305 (Caused by NewConnectionError(\u0027\u003curllib3.connection.HTTPConnection object at 0x7f3558dd2af0\u003e: Failed to establish a new connection: [Errno 110] Connection timed out\u0027))", "status": "error", "test_index": 0, "time_seconds": 135.75437092781067, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcfrandomsample/vcfrandomsample/1.0.0_rc3+galaxy0", "tool_version": "1.0.0_rc3+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+</testsuite>

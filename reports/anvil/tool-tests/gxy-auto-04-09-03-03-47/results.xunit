@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="18"
+           errors="0"
+           failures="3"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6 (Test #1)" name="0" time="181.3540222644806">
+        
+            
+            <system-out><![CDATA[
+            [2021-04-09 03:17:51] INFO: Starting Flye 2.6-release[2021-04-09 03:17:51] INFO: >>>STAGE: configure[2021-04-09 03:17:51] INFO: Configuring run[2021-04-09 03:17:51] INFO: Total read length: 1466260[2021-04-09 03:17:51] INFO: Input genome size: 10000[2021-04-09 03:17:51] INFO: Estimated coverage: 146[2021-04-09 03:17:51] INFO: Reads N50/N90: 9054 / 4697[2021-04-09 03:17:51] INFO: Minimum overlap set to 5000[2021-04-09 03:17:51] INFO: Selected k-mer size: 15[2021-04-09 03:17:51] INFO: >>>STAGE: assembly[2021-04-09 03:17:51] INFO: Assembling disjointigs[2021-04-09 03:17:51] INFO: Reading sequences[2021-04-09 03:17:51] INFO: Generating solid k-mer index[2021-04-09 03:18:12] INFO: Counting k-mers (1/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:12] INFO: Counting k-mers (2/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:13] INFO: Filling index table0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:55] INFO: Extending reads[2021-04-09 03:19:00] INFO: Overlap-based coverage: 25[2021-04-09 03:19:00] INFO: Median overlap divergence: 0.1692240% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:02] INFO: Assembled 1 disjointigs[2021-04-09 03:19:02] INFO: Generating sequence10% 20% 40% 50% 70% 80% 100% [2021-04-09 03:19:03] INFO: >>>STAGE: consensus[2021-04-09 03:19:03] INFO: Running Minimap2[2021-04-09 03:19:05] INFO: Computing consensus[2021-04-09 03:19:06] INFO: Alignment error rate: 0.156879[2021-04-09 03:19:06] INFO: >>>STAGE: repeat[2021-04-09 03:19:06] INFO: Building and resolving repeat graph[2021-04-09 03:19:06] INFO: Reading sequences[2021-04-09 03:19:06] INFO: Building repeat graph50% 100% [2021-04-09 03:19:26] INFO: Median overlap divergence: 0[2021-04-09 03:19:26] INFO: Aligning reads to the graph0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:47] INFO: Aligned read sequence: 1184744 / 1313105 (0.902246)[2021-04-09 03:19:47] INFO: Median overlap divergence: 0.0616647[2021-04-09 03:19:47] INFO: Mean edge coverage: 29[2021-04-09 03:19:47] INFO: Resolving repeats[2021-04-09 03:19:47] INFO: >>>STAGE: trestle[2021-04-09 03:19:47] INFO: Simple unbridged repeats: 0[2021-04-09 03:19:47] INFO: Resolved: 0[2021-04-09 03:19:47] INFO: >>>STAGE: contigger[2021-04-09 03:19:47] INFO: Generating contigs[2021-04-09 03:19:47] INFO: Reading sequences[2021-04-09 03:19:48] INFO: Generated 1 contigs[2021-04-09 03:19:48] INFO: Added 0 scaffold connections[2021-04-09 03:19:48] INFO: >>>STAGE: polishing[2021-04-09 03:19:48] INFO: Polishing genome (1/1)[2021-04-09 03:19:48] INFO: Running minimap2[2021-04-09 03:19:49] INFO: Separating alignment into bubbles[2021-04-09 03:19:50] INFO: Alignment error rate: 0.104507[2021-04-09 03:19:50] INFO: Correcting bubbles0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:56] INFO: >>>STAGE: finalize[2021-04-09 03:19:56] INFO: Assembly statistics:Total length:39944Fragments:1Fragments N50:39944Largest frg:39944Scaffolds:0Mean coverage:27[2021-04-09 03:19:56] INFO: Final assembly: /galaxy/server/database/jobs_directory/000/27/working/out_dir/assembly.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6 (Test #2)" name="1" time="181.35949301719666">
+        
+            
+            <system-out><![CDATA[
+            [2021-04-09 03:17:51] INFO: Starting Flye 2.6-release[2021-04-09 03:17:51] INFO: >>>STAGE: configure[2021-04-09 03:17:51] INFO: Configuring run[2021-04-09 03:17:51] INFO: Total read length: 1466260[2021-04-09 03:17:51] INFO: Input genome size: 10000[2021-04-09 03:17:51] INFO: Estimated coverage: 146[2021-04-09 03:17:51] INFO: Reads N50/N90: 9054 / 4697[2021-04-09 03:17:51] INFO: Minimum overlap set to 5000[2021-04-09 03:17:51] INFO: Selected k-mer size: 15[2021-04-09 03:17:51] INFO: >>>STAGE: assembly[2021-04-09 03:17:51] INFO: Assembling disjointigs[2021-04-09 03:17:51] INFO: Reading sequences[2021-04-09 03:17:51] INFO: Generating solid k-mer index[2021-04-09 03:18:12] INFO: Counting k-mers (1/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:12] INFO: Counting k-mers (2/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:13] INFO: Filling index table0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:55] INFO: Extending reads[2021-04-09 03:19:00] INFO: Overlap-based coverage: 25[2021-04-09 03:19:00] INFO: Median overlap divergence: 0.1692240% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:02] INFO: Assembled 1 disjointigs[2021-04-09 03:19:02] INFO: Generating sequence10% 20% 40% 50% 70% 80% 100% [2021-04-09 03:19:03] INFO: >>>STAGE: consensus[2021-04-09 03:19:03] INFO: Running Minimap2[2021-04-09 03:19:05] INFO: Computing consensus[2021-04-09 03:19:06] INFO: Alignment error rate: 0.157030[2021-04-09 03:19:06] INFO: >>>STAGE: repeat[2021-04-09 03:19:06] INFO: Building and resolving repeat graph[2021-04-09 03:19:06] INFO: Reading sequences[2021-04-09 03:19:06] INFO: Building repeat graph50% 100% [2021-04-09 03:19:26] INFO: Median overlap divergence: 0[2021-04-09 03:19:26] INFO: Aligning reads to the graph0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:47] INFO: Aligned read sequence: 1184737 / 1313105 (0.902241)[2021-04-09 03:19:47] INFO: Median overlap divergence: 0.0613459[2021-04-09 03:19:47] INFO: Mean edge coverage: 29[2021-04-09 03:19:47] INFO: Resolving repeats[2021-04-09 03:19:48] INFO: >>>STAGE: trestle[2021-04-09 03:19:48] INFO: Simple unbridged repeats: 0[2021-04-09 03:19:48] INFO: Resolved: 0[2021-04-09 03:19:48] INFO: >>>STAGE: contigger[2021-04-09 03:19:48] INFO: Generating contigs[2021-04-09 03:19:48] INFO: Reading sequences[2021-04-09 03:19:48] INFO: Generated 1 contigs[2021-04-09 03:19:48] INFO: Added 0 scaffold connections[2021-04-09 03:19:48] INFO: >>>STAGE: polishing[2021-04-09 03:19:48] INFO: Polishing genome (1/1)[2021-04-09 03:19:48] INFO: Running minimap2[2021-04-09 03:19:49] INFO: Separating alignment into bubbles[2021-04-09 03:19:50] INFO: Alignment error rate: 0.104939[2021-04-09 03:19:50] INFO: Correcting bubbles0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:55] INFO: >>>STAGE: finalize[2021-04-09 03:19:55] INFO: Assembly statistics:Total length:40419Fragments:1Fragments N50:40419Largest frg:40419Scaffolds:0Mean coverage:26[2021-04-09 03:19:55] INFO: Final assembly: /galaxy/server/database/jobs_directory/000/28/working/out_dir/assembly.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6 (Test #3)" name="2" time="170.95053935050964">
+        
+            
+            <system-out><![CDATA[
+            [2021-04-09 03:17:51] INFO: Starting Flye 2.6-release[2021-04-09 03:17:51] INFO: >>>STAGE: configure[2021-04-09 03:17:51] INFO: Configuring run[2021-04-09 03:17:51] INFO: Total read length: 1466260[2021-04-09 03:17:51] INFO: Input genome size: 10000[2021-04-09 03:17:51] INFO: Estimated coverage: 146[2021-04-09 03:17:51] INFO: Reads N50/N90: 9054 / 4697[2021-04-09 03:17:51] INFO: Minimum overlap set to 5000[2021-04-09 03:17:51] INFO: Selected k-mer size: 17[2021-04-09 03:17:51] INFO: Using longest 40x reads for contig assembly[2021-04-09 03:17:51] INFO: >>>STAGE: assembly[2021-04-09 03:17:51] INFO: Assembling disjointigs[2021-04-09 03:17:51] INFO: Reading sequences[2021-04-09 03:17:51] INFO: Generating solid k-mer index[2021-04-09 03:18:12] INFO: Counting k-mers (1/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:12] INFO: Counting k-mers (2/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:12] INFO: Filling index table0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:48] INFO: Extending reads[2021-04-09 03:18:48] INFO: Overlap-based coverage: 3[2021-04-09 03:18:48] INFO: Median overlap divergence: 0.1735210% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:48] INFO: Assembled 1 disjointigs[2021-04-09 03:18:48] INFO: Generating sequence10% 20% 40% 50% 70% 80% 100% [2021-04-09 03:18:50] INFO: >>>STAGE: consensus[2021-04-09 03:18:50] INFO: Running Minimap2[2021-04-09 03:18:51] INFO: Computing consensus[2021-04-09 03:18:53] INFO: Alignment error rate: 0.146313[2021-04-09 03:18:53] INFO: >>>STAGE: repeat[2021-04-09 03:18:53] INFO: Building and resolving repeat graph[2021-04-09 03:18:53] INFO: Reading sequences[2021-04-09 03:18:53] INFO: Building repeat graph50% 100% [2021-04-09 03:19:13] INFO: Median overlap divergence: 0[2021-04-09 03:19:13] INFO: Aligning reads to the graph0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:34] INFO: Aligned read sequence: 1174263 / 1313105 (0.894264)[2021-04-09 03:19:34] INFO: Median overlap divergence: 0.0589391[2021-04-09 03:19:34] INFO: Mean edge coverage: 29[2021-04-09 03:19:34] INFO: Resolving repeats[2021-04-09 03:19:34] INFO: >>>STAGE: contigger[2021-04-09 03:19:34] INFO: Generating contigs[2021-04-09 03:19:34] INFO: Reading sequences[2021-04-09 03:19:34] INFO: Generated 1 contigs[2021-04-09 03:19:34] INFO: Added 0 scaffold connections[2021-04-09 03:19:34] INFO: >>>STAGE: polishing[2021-04-09 03:19:34] INFO: Polishing genome (1/2)[2021-04-09 03:19:34] INFO: Running minimap2[2021-04-09 03:19:35] INFO: Separating alignment into bubbles[2021-04-09 03:19:37] INFO: Alignment error rate: 0.099017[2021-04-09 03:19:37] INFO: Correcting bubbles0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:41] INFO: Polishing genome (2/2)[2021-04-09 03:19:41] INFO: Running minimap2[2021-04-09 03:19:42] INFO: Separating alignment into bubbles[2021-04-09 03:19:44] INFO: Alignment error rate: 0.094400[2021-04-09 03:19:44] INFO: Correcting bubbles0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:48] INFO: >>>STAGE: finalize[2021-04-09 03:19:48] INFO: Assembly statistics:Total length:40414Fragments:1Fragments N50:40414Largest frg:40414Scaffolds:0Mean coverage:27[2021-04-09 03:19:48] INFO: Final assembly: /galaxy/server/database/jobs_directory/000/29/working/out_dir/assembly.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/flye/flye/2.6 (Test #4)" name="3" time="174.83769154548645">
+        
+            
+            <system-out><![CDATA[
+            [2021-04-09 03:17:52] INFO: Starting Flye 2.6-release[2021-04-09 03:17:52] INFO: >>>STAGE: configure[2021-04-09 03:17:52] INFO: Configuring run[2021-04-09 03:17:52] INFO: Total read length: 1466260[2021-04-09 03:17:52] INFO: Input genome size: 10000[2021-04-09 03:17:52] INFO: Estimated coverage: 146[2021-04-09 03:17:52] INFO: Reads N50/N90: 9054 / 4697[2021-04-09 03:17:52] INFO: Minimum overlap set to 5000[2021-04-09 03:17:52] INFO: Selected k-mer size: 15[2021-04-09 03:17:52] INFO: >>>STAGE: assembly[2021-04-09 03:17:52] INFO: Assembling disjointigs[2021-04-09 03:17:52] INFO: Reading sequences[2021-04-09 03:17:52] INFO: Generating solid k-mer index[2021-04-09 03:18:13] INFO: Counting k-mers (1/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:13] INFO: Counting k-mers (2/2):0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:14] INFO: Filling index table (1/2)0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:14] INFO: Filling index table (2/2)0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:18:55] INFO: Extending reads[2021-04-09 03:19:00] INFO: Overlap-based coverage: 24[2021-04-09 03:19:00] INFO: Median overlap divergence: 0.1841870% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:01] INFO: Assembled 1 disjointigs[2021-04-09 03:19:01] INFO: Generating sequence10% 20% 30% 40% 50% 60% 70% 80% 100% [2021-04-09 03:19:03] INFO: >>>STAGE: consensus[2021-04-09 03:19:03] INFO: Running Minimap2[2021-04-09 03:19:05] INFO: Computing consensus[2021-04-09 03:19:06] INFO: Alignment error rate: 0.183209[2021-04-09 03:19:06] INFO: >>>STAGE: repeat[2021-04-09 03:19:06] INFO: Building and resolving repeat graph[2021-04-09 03:19:06] INFO: Reading sequences[2021-04-09 03:19:06] INFO: Building repeat graph50% 100% [2021-04-09 03:19:26] INFO: Median overlap divergence: 0[2021-04-09 03:19:27] INFO: Aligning reads to the graph0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:47] INFO: Aligned read sequence: 1158698 / 1313105 (0.882411)[2021-04-09 03:19:47] INFO: Median overlap divergence: 0.0642069[2021-04-09 03:19:47] INFO: Mean edge coverage: 32[2021-04-09 03:19:47] INFO: Resolving repeats[2021-04-09 03:19:47] INFO: >>>STAGE: plasmids[2021-04-09 03:19:47] INFO: Recovering short unassembled sequences[2021-04-09 03:19:48] INFO: Added 0 extra contigs[2021-04-09 03:19:48] INFO: >>>STAGE: contigger[2021-04-09 03:19:48] INFO: Generating contigs[2021-04-09 03:19:48] INFO: Reading sequences[2021-04-09 03:19:48] INFO: Generated 1 contigs[2021-04-09 03:19:48] INFO: Added 0 scaffold connections[2021-04-09 03:19:48] INFO: >>>STAGE: polishing[2021-04-09 03:19:48] INFO: Polishing genome (1/1)[2021-04-09 03:19:48] INFO: Running minimap2[2021-04-09 03:19:49] INFO: Separating alignment into bubbles[2021-04-09 03:19:51] INFO: Alignment error rate: 0.115105[2021-04-09 03:19:51] INFO: Correcting bubbles0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% [2021-04-09 03:19:57] INFO: >>>STAGE: finalize[2021-04-09 03:19:57] INFO: Assembly statistics:Total length:35685Fragments:1Fragments N50:35685Largest frg:35685Scaffolds:0Mean coverage:36[2021-04-09 03:19:57] INFO: Final assembly: /galaxy/server/database/jobs_directory/000/31/working/out_dir/assembly.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfdistance/vcfdistance/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="32.21322202682495">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcffilter/vcffilter2/1.0.0_rc3+galaxy3 (Test #1)" name="0" time="27.799898386001587">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcffilter/vcffilter2/1.0.0_rc3+galaxy3 (Test #2)" name="1" time="26.454411268234253">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfselectsamples/vcfselectsamples/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="35.20138335227966">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfsort/vcfsort/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="20.799582958221436">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcftools_slice/vcftools_slice/0.1 (Test #1)" name="0" time="21.9113552570343">
+        
+            
+                <error type="error" message="Tool exit code: 0"><![CDATA[
+                    { "inputs": {  "input": {   "id": "a8ae77cefff5ca48",   "src": "hda"  },  "regions": {   "id": "83c1b3b3d868c48f",   "src": "hda"  } }, "job": {  "command_line": "vcf-sort /galaxy/server/database/objects/a/5/9/dataset_a596b81e-5f7d-4396-997c-611108e382e7.dat \u003e sorted.vcf  ; echo \u0027#dummy header\u0027 | cat - /galaxy/server/database/objects/9/d/8/dataset_9d80dc11-c775-43de-a1a0-0b2cf5cfb53b.dat \u003e regions.bed  ; vcftools --vcf sorted.vcf --out output --bed regions.bed --recode",  "command_version": "",  "create_time": "2021-04-09T03:17:20.624714",  "exit_code": 0,  "external_id": "gxy-qmxj7",  "galaxy_version": "20.09",  "history_id": "def03a8420063098",  "id": "cc7d39c68bcc8858",  "inputs": {   "input": {    "id": "a8ae77cefff5ca48",    "src": "hda",    "uuid": "a596b81e-5f7d-4396-997c-611108e382e7"   },   "regions": {    "id": "83c1b3b3d868c48f",    "src": "hda",    "uuid": "9d80dc11-c775-43de-a1a0-0b2cf5cfb53b"   }  },  "job_messages": [],  "job_metrics": [   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "0E-7",    "title": "Job Runtime (Wall Clock)",    "value": "0 seconds"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617938251.0000000",    "title": "Job End Time",    "value": "2021-04-09 03:17:31"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617938251.0000000",    "title": "Job Start Time",    "value": "2021-04-09 03:17:31"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   }  ],  "job_stderr": "",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "output": {    "id": "cc7d39c68bcc8858",    "src": "hda",    "uuid": "250cca06-7de2-417b-9baf-27e06ddf5ea5"   }  },  "params": {   "__input_ext": "\"vcf\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\""  },  "state": "error",  "stderr": "/galaxy/server/database/jobs_directory/000/23/tool_script.sh: line 22: vcf-sort: command not found\n",  "stdout": "\nVCFtools - v0.1.11\n(C) Adam Auton 2009\n\nParameters as interpreted:\n\t--vcf sorted.vcf\n\t--out output\n\t--recode\n\t--bed regions.bed\n\nIndex file is older than variant file. Will regenerate.\nBuilding new index file.\nError:No header or meta information. Invalid file: sorted.vcf\n",  "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcftools_slice/vcftools_slice/0.1",  "tool_stderr": "/galaxy/server/database/jobs_directory/000/23/tool_script.sh: line 22: vcf-sort: command not found\n",  "tool_stdout": "\nVCFtools - v0.1.11\n(C) Adam Auton 2009\n\nParameters as interpreted:\n\t--vcf sorted.vcf\n\t--out output\n\t--recode\n\t--bed regions.bed\n\nIndex file is older than variant file. Will regenerate.\nBuilding new index file.\nError:No header or meta information. Invalid file: sorted.vcf\n",  "update_time": "2021-04-09T03:17:33.248240",  "user_email": "alex@fake.org" }, "output_problems": [  "Job in error state.",  "Job in error state." ], "status": "failure", "test_index": 0, "time_seconds": 21.9113552570343, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/vcftools_slice/vcftools_slice/0.1", "tool_version": "0.1"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            VCFtools - v0.1.11(C) Adam Auton 2009Parameters as interpreted:--vcf sorted.vcf--out output--recode--bed regions.bedIndex file is older than variant file. Will regenerate.Building new index file.Error:No header or meta information. Invalid file: sorted.vcf
+            ]]></system-out>
+            <system-err><![CDATA[
+            /galaxy/server/database/jobs_directory/000/23/tool_script.sh: line 22: vcf-sort: command not found
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfvcfintersect/vcfvcfintersect/1.0.0_rc3+galaxy0 (Test #1)" name="0" time="36.72813940048218">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            index file localref.fa.fai not found, generating...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/vcfvcfintersect/vcfvcfintersect/1.0.0_rc3+galaxy0 (Test #2)" name="1" time="44.226733922958374">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            index file localref.fa.fai not found, generating...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/nanoplot/nanoplot/1.28.2+galaxy1 (Test #1)" name="0" time="94.10350227355957">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/nanoplot/nanoplot/1.28.2+galaxy1 (Test #2)" name="1" time="96.60688328742981">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/nanoplot/nanoplot/1.28.2+galaxy1 (Test #3)" name="2" time="65.67924046516418">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1 (Test #1)" name="0" time="59.376808404922485">
+        
+            
+                <error type="error" message="Tool exit code: 1"><![CDATA[
+                    { "inputs": {  "input": {   "id": "a6ef0a74c060ab2a",   "src": "hda"  },  "precalled": false }, "job": {  "command_line": "poretools events  \u0027/galaxy/server/database/objects/e/1/0/dataset_e1029bb1-3489-4438-a6d3-f9c6e68dcc59.dat\u0027 \u003e \u0027/galaxy/server/database/objects/b/7/3/dataset_b73918d4-8546-4512-bf3a-9b5467f48b7e.dat\u0027",  "command_version": "",  "create_time": "2021-04-09T03:20:41.581031",  "exit_code": 1,  "external_id": "gxy-l29kj",  "galaxy_version": "20.09",  "history_id": "def03a8420063098",  "id": "2850e2dda72f7511",  "inputs": {   "input": {    "id": "a6ef0a74c060ab2a",    "src": "hda",    "uuid": "e1029bb1-3489-4438-a6d3-f9c6e68dcc59"   }  },  "job_messages": [   {    "code_desc": "",    "desc": "Fatal error: Exit code 1 ()",    "error_level": 3,    "exit_code": 1,    "type": "exit_code"   }  ],  "job_metrics": [   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Job Runtime (Wall Clock)",    "value": "1 seconds"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617938486.0000000",    "title": "Job End Time",    "value": "2021-04-09 03:21:26"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617938485.0000000",    "title": "Job Start Time",    "value": "2021-04-09 03:21:25"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   }  ],  "job_stderr": "Traceback (most recent call last):\n  File \"/usr/local/bin/poretools\", line 11, in \u003cmodule\u003e\n    load_entry_point(\u0027poretools==0.6.0\u0027, \u0027console_scripts\u0027, \u0027poretools\u0027)()\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 543, in main\n    args.func(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 55, in run_subtool\n    submodule.run(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/events.py\", line 17, in run\n    for fast5 in Fast5File.Fast5FileSet(args.files):\n  File \"/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py\", line 110, in next\n    shutil.rmtree(PORETOOLS_TMPDIR)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 261, in rmtree\n    rmtree(fullname, ignore_errors, onerror)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 270, in rmtree\n    onerror(os.rmdir, path, sys.exc_info())\n  File \"/usr/local/lib/python2.7/shutil.py\", line 268, in rmtree\n    os.rmdir(path)\nOSError: [Errno 39] Directory not empty: \u0027.poretools_tmp/test-data\u0027\n",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "output": {    "id": "bf75fe9646087c76",    "src": "hda",    "uuid": "b73918d4-8546-4512-bf3a-9b5467f48b7e"   }  },  "params": {   "__input_ext": "\"fast5.tar\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "precalled": "\"false\""  },  "state": "error",  "stderr": "\nTraceback (most recent call last):\n  File \"/usr/local/bin/poretools\", line 11, in \u003cmodule\u003e\n    load_entry_point(\u0027poretools==0.6.0\u0027, \u0027console_scripts\u0027, \u0027poretools\u0027)()\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 543, in main\n    args.func(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 55, in run_subtool\n    submodule.run(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/events.py\", line 17, in run\n    for fast5 in Fast5File.Fast5FileSet(args.files):\n  File \"/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py\", line 110, in next\n    shutil.rmtree(PORETOOLS_TMPDIR)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 261, in rmtree\n    rmtree(fullname, ignore_errors, onerror)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 270, in rmtree\n    onerror(os.rmdir, path, sys.exc_info())\n  File \"/usr/local/lib/python2.7/shutil.py\", line 268, in rmtree\n    os.rmdir(path)\nOSError: [Errno 39] Directory not empty: \u0027.poretools_tmp/test-data\u0027\n",  "stdout": "",  "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-04-09T03:21:27.499688",  "user_email": "alex@fake.org" }, "output_problems": [  "Job in error state.",  "Job in error state." ], "status": "failure", "test_index": 0, "time_seconds": 59.376808404922485, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1", "tool_version": "0.6.1a1.1"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            Traceback (most recent call last):  File "/usr/local/bin/poretools", line 11, in <module>    load_entry_point('poretools==0.6.0', 'console_scripts', 'poretools')()  File "/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py", line 543, in main    args.func(parser, args)  File "/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py", line 55, in run_subtool    submodule.run(parser, args)  File "/usr/local/lib/python2.7/site-packages/poretools/events.py", line 17, in run    for fast5 in Fast5File.Fast5FileSet(args.files):  File "/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py", line 110, in next    shutil.rmtree(PORETOOLS_TMPDIR)  File "/usr/local/lib/python2.7/shutil.py", line 261, in rmtree    rmtree(fullname, ignore_errors, onerror)  File "/usr/local/lib/python2.7/shutil.py", line 270, in rmtree    onerror(os.rmdir, path, sys.exc_info())  File "/usr/local/lib/python2.7/shutil.py", line 268, in rmtree    os.rmdir(path)OSError: [Errno 39] Directory not empty: '.poretools_tmp/test-data'
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1 (Test #2)" name="1" time="17.071478605270386">
+        
+            
+                <error type="error" message="Tool exit code: 1"><![CDATA[
+                    { "inputs": {  "input": {   "id": "7a9d0a1f4f508d48",   "src": "hda"  },  "precalled": true }, "job": {  "command_line": "poretools events --pre-basecalled \u0027/galaxy/server/database/objects/5/0/8/dataset_508acadc-025f-4cfc-858a-953052103f50.dat\u0027 \u003e \u0027/galaxy/server/database/objects/8/0/b/dataset_80bd9722-836b-41c7-b653-cf683649ee09.dat\u0027",  "command_version": "",  "create_time": "2021-04-09T03:21:36.578871",  "exit_code": 1,  "external_id": "gxy-flglb",  "galaxy_version": "20.09",  "history_id": "def03a8420063098",  "id": "2223b4ade808e4ab",  "inputs": {   "input": {    "id": "7a9d0a1f4f508d48",    "src": "hda",    "uuid": "508acadc-025f-4cfc-858a-953052103f50"   }  },  "job_messages": [   {    "code_desc": "",    "desc": "Fatal error: Exit code 1 ()",    "error_level": 3,    "exit_code": 1,    "type": "exit_code"   }  ],  "job_metrics": [   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Job Runtime (Wall Clock)",    "value": "1 seconds"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1617938503.0000000",    "title": "Job End Time",    "value": "2021-04-09 03:21:43"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1617938502.0000000",    "title": "Job Start Time",    "value": "2021-04-09 03:21:42"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   }  ],  "job_stderr": "Traceback (most recent call last):\n  File \"/usr/local/bin/poretools\", line 11, in \u003cmodule\u003e\n    load_entry_point(\u0027poretools==0.6.0\u0027, \u0027console_scripts\u0027, \u0027poretools\u0027)()\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 543, in main\n    args.func(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 55, in run_subtool\n    submodule.run(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/events.py\", line 13, in run\n    for fast5 in Fast5File.Fast5FileSet(args.files):\n  File \"/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py\", line 110, in next\n    shutil.rmtree(PORETOOLS_TMPDIR)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 261, in rmtree\n    rmtree(fullname, ignore_errors, onerror)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 270, in rmtree\n    onerror(os.rmdir, path, sys.exc_info())\n  File \"/usr/local/lib/python2.7/shutil.py\", line 268, in rmtree\n    os.rmdir(path)\nOSError: [Errno 39] Directory not empty: \u0027.poretools_tmp/test-data\u0027\n",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "output": {    "id": "9e25347d127714e4",    "src": "hda",    "uuid": "80bd9722-836b-41c7-b653-cf683649ee09"   }  },  "params": {   "__input_ext": "\"fast5.tar\"",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "precalled": "\"true\""  },  "state": "error",  "stderr": "\nTraceback (most recent call last):\n  File \"/usr/local/bin/poretools\", line 11, in \u003cmodule\u003e\n    load_entry_point(\u0027poretools==0.6.0\u0027, \u0027console_scripts\u0027, \u0027poretools\u0027)()\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 543, in main\n    args.func(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py\", line 55, in run_subtool\n    submodule.run(parser, args)\n  File \"/usr/local/lib/python2.7/site-packages/poretools/events.py\", line 13, in run\n    for fast5 in Fast5File.Fast5FileSet(args.files):\n  File \"/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py\", line 110, in next\n    shutil.rmtree(PORETOOLS_TMPDIR)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 261, in rmtree\n    rmtree(fullname, ignore_errors, onerror)\n  File \"/usr/local/lib/python2.7/shutil.py\", line 270, in rmtree\n    onerror(os.rmdir, path, sys.exc_info())\n  File \"/usr/local/lib/python2.7/shutil.py\", line 268, in rmtree\n    os.rmdir(path)\nOSError: [Errno 39] Directory not empty: \u0027.poretools_tmp/test-data\u0027\n",  "stdout": "",  "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-04-09T03:21:44.725915",  "user_email": "alex@fake.org" }, "output_problems": [  "Job in error state.",  "Job in error state." ], "status": "failure", "test_index": 1, "time_seconds": 17.071478605270386, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/poretools_events/poretools_events/0.6.1a1.1", "tool_version": "0.6.1a1.1"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            Traceback (most recent call last):  File "/usr/local/bin/poretools", line 11, in <module>    load_entry_point('poretools==0.6.0', 'console_scripts', 'poretools')()  File "/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py", line 543, in main    args.func(parser, args)  File "/usr/local/lib/python2.7/site-packages/poretools/poretools_main.py", line 55, in run_subtool    submodule.run(parser, args)  File "/usr/local/lib/python2.7/site-packages/poretools/events.py", line 13, in run    for fast5 in Fast5File.Fast5FileSet(args.files):  File "/usr/local/lib/python2.7/site-packages/poretools/Fast5File.py", line 110, in next    shutil.rmtree(PORETOOLS_TMPDIR)  File "/usr/local/lib/python2.7/shutil.py", line 261, in rmtree    rmtree(fullname, ignore_errors, onerror)  File "/usr/local/lib/python2.7/shutil.py", line 270, in rmtree    onerror(os.rmdir, path, sys.exc_info())  File "/usr/local/lib/python2.7/shutil.py", line 268, in rmtree    os.rmdir(path)OSError: [Errno 39] Directory not empty: '.poretools_tmp/test-data'
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/vcfdistance/vcfdistance/1.0.0_rc1+galaxy0 (Test #1)" name="0" time="23.310000896453857">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+</testsuite>

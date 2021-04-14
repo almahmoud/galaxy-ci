@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="103"
+           errors="100"
+           failures="1"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1 (Test #1)" name="0" time="0.22345757484436035">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.22345757484436035, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1", "tool_version": "0.10.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1 (Test #2)" name="1" time="0.18217229843139648">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.18217229843139648, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1", "tool_version": "0.10.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1 (Test #3)" name="2" time="0.1799166202545166">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.1799166202545166, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1", "tool_version": "0.10.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1 (Test #4)" name="3" time="0.18478035926818848">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.18478035926818848, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/sailfish/sailfish/0.10.1.1", "tool_version": "0.10.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/circos/circgraph/0.9-RC2 (Test #1)" name="0" time="0.35608649253845215">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.35608649253845215, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/circos/circgraph/0.9-RC2", "tool_version": "0.9-RC2"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #1)" name="0" time="0.48786067962646484">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.48786067962646484, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #2)" name="1" time="0.41455745697021484">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.41455745697021484, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #3)" name="2" time="0.4521324634552002">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.4521324634552002, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #4)" name="3" time="0.3451254367828369">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.3451254367828369, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #5)" name="4" time="0.16651511192321777">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.16651511192321777, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #6)" name="5" time="0.3025791645050049">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.3025791645050049, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #7)" name="6" time="0.14034533500671387">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.14034533500671387, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1 (Test #8)" name="7" time="0.14215302467346191">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.14215302467346191, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/deseq2/deseq2/2.11.40.6+galaxy1", "tool_version": "2.11.40.6+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #1)" name="0" time="0.10578131675720215">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.10578131675720215, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #2)" name="1" time="0.16968870162963867">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.16968870162963867, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #11)" name="10" time="0.11460208892822266">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 10, "time_seconds": 0.11460208892822266, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #12)" name="11" time="0.10906386375427246">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 11, "time_seconds": 0.10906386375427246, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #3)" name="2" time="0.11756753921508789">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.11756753921508789, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #4)" name="3" time="0.10927009582519531">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.10927009582519531, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #5)" name="4" time="0.10333561897277832">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.10333561897277832, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #6)" name="5" time="0.10761833190917969">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.10761833190917969, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #7)" name="6" time="0.11028337478637695">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.11028337478637695, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #8)" name="7" time="0.10452747344970703">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.10452747344970703, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #9)" name="8" time="0.11527419090270996">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 8, "time_seconds": 0.11527419090270996, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1 (Test #10)" name="9" time="0.11124753952026367">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 9, "time_seconds": 0.11124753952026367, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/edger/edger/3.24.1+galaxy1", "tool_version": "3.24.1+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #1)" name="0" time="0.22116470336914062">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.22116470336914062, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #2)" name="1" time="0.20588135719299316">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.20588135719299316, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #11)" name="10" time="0.13396978378295898">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 10, "time_seconds": 0.13396978378295898, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #12)" name="11" time="0.1184239387512207">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 11, "time_seconds": 0.1184239387512207, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #13)" name="12" time="0.11417007446289062">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 12, "time_seconds": 0.11417007446289062, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #14)" name="13" time="0.14437508583068848">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 13, "time_seconds": 0.14437508583068848, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #15)" name="14" time="0.14167308807373047">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 14, "time_seconds": 0.14167308807373047, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #16)" name="15" time="0.12973475456237793">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 15, "time_seconds": 0.12973475456237793, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #17)" name="16" time="0.1443929672241211">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 16, "time_seconds": 0.1443929672241211, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #3)" name="2" time="0.190962553024292">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.190962553024292, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #4)" name="3" time="0.148270845413208">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.148270845413208, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #5)" name="4" time="0.13515830039978027">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.13515830039978027, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #6)" name="5" time="0.1444244384765625">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.1444244384765625, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #7)" name="6" time="0.13736987113952637">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.13736987113952637, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #8)" name="7" time="0.1345674991607666">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.1345674991607666, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #9)" name="8" time="0.10999941825866699">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 8, "time_seconds": 0.10999941825866699, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7 (Test #10)" name="9" time="0.12128853797912598">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 9, "time_seconds": 0.12128853797912598, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/hisat2/hisat2/2.1.0+galaxy7", "tool_version": "2.1.0+galaxy7"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #1)" name="0" time="0.4603707790374756">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.4603707790374756, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #2)" name="1" time="0.22787737846374512">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.22787737846374512, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #3)" name="2" time="0.21175885200500488">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.21175885200500488, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #4)" name="3" time="0.2130119800567627">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.2130119800567627, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #5)" name="4" time="0.23380136489868164">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.23380136489868164, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #6)" name="5" time="0.2617042064666748">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.2617042064666748, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #7)" name="6" time="0.26648688316345215">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.26648688316345215, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #8)" name="7" time="0.20755481719970703">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.20755481719970703, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #9)" name="8" time="155.70231294631958">
+        
+            
+                <error type="error" message="Tool exit code: 0"><![CDATA[
+                    { "inputs": {  "gencode": "1",  "reference_genome|genome_type_select": "indexed",  "standalone": "data",  "uglyTestingHack": "enabled" }, "job": {  "command_line": "mkdir -p /galaxy/server/database/jobs_directory/000/3/working/dataset_bb2a7092-7c9d-4d15-9b95-30140105b549_files \u0026\u0026  cp /galaxy/server/database/jobs_directory/000/3/configs/tmp6z_0l8ib /galaxy/server/database/jobs_directory/000/3/working/dataset_bb2a7092-7c9d-4d15-9b95-30140105b549_files/galaxy.xml \u0026\u0026  export JBROWSE_SOURCE_DIR=$(dirname $(which prepare-refseqs.pl))/../opt/jbrowse  \u0026\u0026  python \u0027/cvmfs/main.galaxyproject.org/shed_tools/toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/4542035c1075/jbrowse/jbrowse.py\u0027  --jbrowse ${JBROWSE_SOURCE_DIR} --standalone \u0027data\u0027  --outdir /galaxy/server/database/jobs_directory/000/3/working/dataset_bb2a7092-7c9d-4d15-9b95-30140105b549_files /galaxy/server/database/jobs_directory/000/3/configs/tmp6z_0l8ib \u0026\u0026  cp /galaxy/server/database/jobs_directory/000/3/configs/tmpdkca5ryc /galaxy/server/database/objects/b/b/2/dataset_bb2a7092-7c9d-4d15-9b95-30140105b549.dat;  cp /galaxy/server/database/jobs_directory/000/3/configs/tmp6z_0l8ib /galaxy/server/database/objects/b/b/2/dataset_bb2a7092-7c9d-4d15-9b95-30140105b549.dat",  "command_version": "jbrowse.py 0.8.0\n",  "create_time": "2021-03-28T21:15:04.552182",  "exit_code": 0,  "external_id": "gxy-q8kz9",  "galaxy_version": "20.09",  "history_id": "846d5c128b2e2852",  "id": "f962e00caa3ccdc1",  "inputs": {},  "job_messages": [],  "job_metrics": [   {    "name": "runtime_seconds",    "plugin": "core",    "raw_value": "58.0000000",    "title": "Job Runtime (Wall Clock)",    "value": "58 seconds"   },   {    "name": "end_epoch",    "plugin": "core",    "raw_value": "1616966201.0000000",    "title": "Job End Time",    "value": "2021-03-28 21:16:41"   },   {    "name": "start_epoch",    "plugin": "core",    "raw_value": "1616966143.0000000",    "title": "Job Start Time",    "value": "2021-03-28 21:15:43"   },   {    "name": "galaxy_memory_mb",    "plugin": "core",    "raw_value": "2147.0000000",    "title": "Memory Allocated (MB)",    "value": "2147"   },   {    "name": "galaxy_slots",    "plugin": "core",    "raw_value": "1.0000000",    "title": "Cores Allocated",    "value": "1"   }  ],  "job_stderr": "WARNING: No feature names found for indexing, only reference sequence names will be indexed.\n",  "job_stdout": "",  "model_class": "Job",  "outputs": {   "output": {    "id": "f962e00caa3ccdc1",    "src": "hda",    "uuid": "bb2a7092-7c9d-4d15-9b95-30140105b549"   }  },  "params": {   "__input_ext": "\"data\"",   "action": "{\"__current_case__\": 0, \"action_select\": \"create\"}",   "chromInfo": "\"/cvmfs/data.galaxyproject.org/managed/len/ucsc/?.len\"",   "dbkey": "\"?\"",   "gencode": "\"1\"",   "jbgen": "{\"aboutDescription\": \"\", \"defaultLocation\": \"\", \"hideGenomeOptions\": \"false\", \"shareLink\": \"true\", \"show_menu\": \"true\", \"show_nav\": \"true\", \"show_overview\": \"true\", \"show_tracklist\": \"true\", \"trackPadding\": \"20\"}",   "plugins": "{\"BlastView\": \"true\", \"ComboTrackSelector\": \"false\", \"GCContent\": \"false\"}",   "reference_genome": "{\"__current_case__\": 0, \"genome_type_select\": \"indexed\", \"genomes\": \"apiMel4\"}",   "standalone": "\"data\"",   "track_groups": "[]",   "uglyTestingHack": "\"enabled\""  },  "state": "ok",  "stderr": "\nWARNING: No feature names found for indexing, only reference sequence names will be indexed.\n",  "stdout": "",  "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0",  "tool_stderr": "",  "tool_stdout": "",  "update_time": "2021-03-28T21:17:39.918297",  "user_email": "alex@fake.org" }, "output_problems": [  "Output output:  different than expected\nOutput file did not contain expected text \u0027merlin.fa\u0027 (output \u0027\u003c?xml version=\"1.0\"?\u003e\n\u003croot\u003e\n    \u003cmetadata\u003e\n        \u003cgencode\u003e1\u003c/gencode\u003e\n        \u003cgenomes\u003e\n              \u003cgenome path=\"/cvmfs/data.galaxyproject.org/managed/seq/apiMel4.fa\"\u003e\n                  \u003cmetadata /\u003e\n              \u003c/genome\u003es\n        \u003c/genomes\u003e\n        \u003cgeneral\u003e\n            \u003cdefaultLocation\u003e\u003c/defaultLocation\u003e\n            \u003ctrackPadding\u003e20\u003c/trackPadding\u003e\n\n            \u003cshareLink\u003etrue\u003c/shareLink\u003e\n            \u003caboutDescription\u003e\u003c/aboutDescription\u003e\n            \u003cshow_tracklist\u003etrue\u003c/show_tracklist\u003e\n            \u003cshow_nav\u003etrue\u003c/show_nav\u003e\n            \u003cshow_overview\u003etrue\u003c/show_overview\u003e\n            \u003cshow_menu\u003etrue\u003c/show_menu\u003e\n            \u003chideGenomeOptions\u003efalse\u003c/hideGenomeOptions\u003e\n        \u003c/general\u003e\n        \u003cgalaxyUrl\u003ehttp://localhost:8080\u003c/galaxyUrl\u003e\n    \u003c/metadata\u003e\n    \u003ctracks\u003e\n    \u003c/tracks\u003e\n    \u003cplugins\n        ComboTrackSelector=\"\"\n        Bookmarks=\"\"\n        GCContent=\"\"\n        BlastView=\"True\"\n        theme=\"\"\n        /\u003e\n\u003c/root\u003e\n\u0027)" ], "status": "failure", "test_index": 8, "time_seconds": 155.70231294631958, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+                ]]></error>
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            WARNING: No feature names found for indexing, only reference sequence names will be indexed.
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0 (Test #10)" name="9" time="0.25464773178100586">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 9, "time_seconds": 0.25464773178100586, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/jbrowse/jbrowse/1.16.11+galaxy0", "tool_version": "1.16.11+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #1)" name="0" time="0.23969626426696777">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.23969626426696777, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #2)" name="1" time="0.13925433158874512">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.13925433158874512, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #11)" name="10" time="0.1116492748260498">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 10, "time_seconds": 0.1116492748260498, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #3)" name="2" time="0.14722967147827148">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.14722967147827148, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #4)" name="3" time="0.11995720863342285">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.11995720863342285, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #5)" name="4" time="0.11045360565185547">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.11045360565185547, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #6)" name="5" time="0.12742042541503906">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.12742042541503906, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #7)" name="6" time="0.26751208305358887">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.26751208305358887, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #8)" name="7" time="0.11020946502685547">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.11020946502685547, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #9)" name="8" time="0.11268806457519531">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 8, "time_seconds": 0.11268806457519531, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3 (Test #10)" name="9" time="0.1932377815246582">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 9, "time_seconds": 0.1932377815246582, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/limma_voom/limma_voom/3.38.3+galaxy3", "tool_version": "3.38.3+galaxy3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/mummer_dnadiff/mummer_dnadiff/4.0.0beta2+galaxy1 (Test #1)" name="0" time="0.10876178741455078">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.10876178741455078, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_dnadiff/mummer_dnadiff/4.0.0beta2+galaxy1", "tool_version": "4.0.0beta2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummer/mummer_mummer/4.0.0beta2+galaxy1 (Test #1)" name="0" time="0.12339210510253906">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.12339210510253906, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummer/mummer_mummer/4.0.0beta2+galaxy1", "tool_version": "4.0.0beta2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummerplot/mummer_mummerplot/4.0.0beta2+galaxy1 (Test #1)" name="0" time="0.21925854682922363">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.21925854682922363, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_mummerplot/mummer_mummerplot/4.0.0beta2+galaxy1", "tool_version": "4.0.0beta2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/mummer_nucmer/mummer_nucmer/4.0.0beta2+galaxy1 (Test #1)" name="0" time="0.26195335388183594">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.26195335388183594, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_nucmer/mummer_nucmer/4.0.0beta2+galaxy1", "tool_version": "4.0.0beta2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/mummer_show_coords/mummer_show_coords/4.0.0beta2+galaxy1 (Test #1)" name="0" time="0.1380763053894043">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.1380763053894043, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/mummer_show_coords/mummer_show_coords/4.0.0beta2+galaxy1", "tool_version": "4.0.0beta2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #1)" name="0" time="2.8656253814697266">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 2.8656253814697266, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #2)" name="1" time="0.436093807220459">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.436093807220459, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #11)" name="10" time="1.9362826347351074">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 10, "time_seconds": 1.9362826347351074, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #12)" name="11" time="1.895848274230957">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 11, "time_seconds": 1.895848274230957, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #13)" name="12" time="0.5841002464294434">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 12, "time_seconds": 0.5841002464294434, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #14)" name="13" time="40.92072534561157">
+        
+            
+            <system-out><![CDATA[
+            [spacer]height = 1.0[scale_bar]title = defaultcolor = #000000alpha = 1.0line_width = 0.5where = leftfile_type = scalebar[spacer]height = 1.0[scale_bar]title = scalebar where = right x_center = 3200000 size = 100002 fontsize = 8 line_width =2 color = red alpha = 0.5color = redalpha = 0.5line_width = 2.0x_center = 3200000size = 100002where = rightfontsize = 8.0file_type = scalebar[spacer]height = 4.0
+            ]]></system-out>
+            <system-err><![CDATA[
+            WARNING:matplotlib:Matplotlib created a temporary config/cache directory at /tmp/matplotlib-04jahhhq because the default path (/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.WARNING:matplotlib:Matplotlib created a temporary config/cache directory at /tmp/matplotlib-q1krj7ht because the default path (/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.INFO:pygenometracks.tracksClass:initialize 1. [spacer]INFO:pygenometracks.tracksClass:initialize 2. [scale_bar]INFO:pygenometracks.tracksClass:initialize 3. [spacer]INFO:pygenometracks.tracksClass:initialize 4. [scale_bar]INFO:pygenometracks.tracksClass:initialize 5. [spacer]INFO:pygenometracks.tracksClass:time initializing track(s):INFO:pygenometracks.tracksClass:0.003059864044189453DEBUG:pygenometracks.tracksClass:Figure size in cm is 40.0 x 7.446808510638299. Dpi is set to 72INFO:pygenometracks.tracksClass:plotting 1. [spacer]INFO:pygenometracks.tracksClass:plotting 2. [scale_bar]INFO:pygenometracks.tracksClass:plotting 3. [spacer]INFO:pygenometracks.tracksClass:plotting 4. [scale_bar]INFO:pygenometracks.tracksClass:plotting 5. [spacer]
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #15)" name="14" time="0.2236042022705078">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 14, "time_seconds": 0.2236042022705078, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #16)" name="15" time="0.2560617923736572">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 15, "time_seconds": 0.2560617923736572, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #17)" name="16" time="0.8720331192016602">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 16, "time_seconds": 0.8720331192016602, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #18)" name="17" time="0.5580348968505859">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 17, "time_seconds": 0.5580348968505859, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #19)" name="18" time="0.5386996269226074">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 18, "time_seconds": 0.5386996269226074, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #20)" name="19" time="0.7953367233276367">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 19, "time_seconds": 0.7953367233276367, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #3)" name="2" time="2.993741512298584">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 2.993741512298584, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #21)" name="20" time="39.42970299720764">
+        
+            
+            <system-out><![CDATA[
+            [scale_bar]title = scalebar where = rightcolor = #000000alpha = 1.0line_width = 0.5where = leftfile_type = scalebar[spacer]height = 0.5[scale_bar]title = scalebar scalebar_start_position = 3200000color = #000000alpha = 1.0line_width = 0.5scalebar_start_position = 3200000where = leftfile_type = scalebar[spacer]height = 0.5[scale_bar]title = scalebar scalebar_start_position = 3200000 scalebar_end_position = 3250000color = #000000alpha = 1.0line_width = 0.5scalebar_start_position = 3250000where = leftfile_type = scalebar[spacer]height = 0.5[scale_bar]title = scalebar scalebar_start_position = 3200000 x_center = 3250000color = #000000alpha = 1.0line_width = 0.5x_center = 3250000scalebar_start_position = 3200000where = leftfile_type = scalebar[spacer]height = 0.5[scale_bar]title = scalebar scalebar_start_position = 3200000 size = 50000color = #000000alpha = 1.0line_width = 0.5size = 50000scalebar_start_position = 3200000where = leftfile_type = scalebar[spacer]height = 0.5[scale_bar]title = scalebar scalebar_end_position = 3200000 size = 50000color = #000000alpha = 1.0line_width = 0.5size = 50000scalebar_end_position = 3200000where = leftfile_type = scalebar[spacer]height = 0.5[x-axis]where = bottom
+            ]]></system-out>
+            <system-err><![CDATA[
+            WARNING:matplotlib:Matplotlib created a temporary config/cache directory at /tmp/matplotlib-v63xlf28 because the default path (/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.WARNING:matplotlib:Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ljeljqhm because the default path (/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.INFO:pygenometracks.tracksClass:initialize 1. [scale_bar]INFO:pygenometracks.tracksClass:initialize 2. [spacer]INFO:pygenometracks.tracksClass:initialize 3. [scale_bar]INFO:pygenometracks.tracksClass:initialize 4. [spacer]INFO:pygenometracks.tracksClass:initialize 5. [scale_bar]INFO:pygenometracks.tracksClass:initialize 6. [spacer]INFO:pygenometracks.tracksClass:initialize 7. [scale_bar]INFO:pygenometracks.tracksClass:initialize 8. [spacer]INFO:pygenometracks.tracksClass:initialize 9. [scale_bar]INFO:pygenometracks.tracksClass:initialize 10. [spacer]INFO:pygenometracks.tracksClass:initialize 11. [scale_bar]INFO:pygenometracks.tracksClass:initialize 12. [spacer]INFO:pygenometracks.tracksClass:initialize 13. [x-axis]INFO:pygenometracks.tracksClass:time initializing track(s):INFO:pygenometracks.tracksClass:0.005027055740356445DEBUG:pygenometracks.tracksClass:Figure size in cm is 19.806493506493506 x 8.377659574468085. Dpi is set to 20INFO:pygenometracks.tracksClass:plotting 1. [scale_bar]INFO:pygenometracks.tracksClass:plotting 2. [spacer]INFO:pygenometracks.tracksClass:plotting 3. [scale_bar]INFO:pygenometracks.tracksClass:plotting 4. [spacer]INFO:pygenometracks.tracksClass:plotting 5. [scale_bar]INFO:pygenometracks.tracksClass:plotting 6. [spacer]INFO:pygenometracks.tracksClass:plotting 7. [scale_bar]INFO:pygenometracks.tracksClass:plotting 8. [spacer]INFO:pygenometracks.tracksClass:plotting 9. [scale_bar]INFO:pygenometracks.tracksClass:plotting 10. [spacer]INFO:pygenometracks.tracksClass:plotting 11. [scale_bar]INFO:pygenometracks.tracksClass:plotting 12. [spacer]INFO:pygenometracks.tracksClass:plotting 13. [x-axis]
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #4)" name="3" time="0.4408273696899414">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.4408273696899414, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #5)" name="4" time="0.34390711784362793">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.34390711784362793, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #6)" name="5" time="0.1774895191192627">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.1774895191192627, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #7)" name="6" time="0.37982964515686035">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.37982964515686035, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #8)" name="7" time="0.2133786678314209">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.2133786678314209, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #9)" name="8" time="0.2468101978302002">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 8, "time_seconds": 0.2468101978302002, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6 (Test #10)" name="9" time="0.24660015106201172">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 9, "time_seconds": 0.24660015106201172, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pygenometracks/pygenomeTracks/3.6", "tool_version": "3.6"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #1)" name="0" time="0.33243465423583984">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.33243465423583984, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #2)" name="1" time="0.34082889556884766">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.34082889556884766, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #3)" name="2" time="0.3315770626068115">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.3315770626068115, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #4)" name="3" time="0.2052898406982422">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 3, "time_seconds": 0.2052898406982422, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #5)" name="4" time="0.16415905952453613">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 4, "time_seconds": 0.16415905952453613, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #6)" name="5" time="0.15435361862182617">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 5, "time_seconds": 0.15435361862182617, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #7)" name="6" time="0.14380741119384766">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 6, "time_seconds": 0.14380741119384766, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #8)" name="7" time="0.14689159393310547">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 7, "time_seconds": 0.14689159393310547, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1 (Test #9)" name="8" time="0.11224079132080078">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 8, "time_seconds": 0.11224079132080078, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1 (Test #1)" name="0" time="0.20086336135864258">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.20086336135864258, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1 (Test #2)" name="1" time="0.2503185272216797">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.2503185272216797, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1 (Test #3)" name="2" time="0.21001744270324707">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 2, "time_seconds": 0.21001744270324707, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/stringtie/stringtie_merge/2.1.1", "tool_version": "2.1.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.3 (Test #1)" name="0" time="0.5775327682495117">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 0, "time_seconds": 0.5775327682495117, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.3", "tool_version": "0.0.3"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.3 (Test #2)" name="1" time="0.28956007957458496">
+        
+            <error type="error" message="Input staging problem: Tool not found or not accessible."><![CDATA[
+                { "execution_problem": "Input staging problem: Tool not found or not accessible.", "status": "error", "test_index": 1, "time_seconds": 0.28956007957458496, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/volcanoplot/volcanoplot/0.0.3", "tool_version": "0.0.3"}
+            ]]></error>
+        
+    </testcase>
+    
+</testsuite>

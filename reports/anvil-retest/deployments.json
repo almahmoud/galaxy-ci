@@ -1,0 +1,16 @@
+{
+    "results": {
+        "deployments": [
+            {
+                "status": "deployed",
+                "time": "5m13.330s",
+                "date": "Thu Apr  8 00:46:05 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m21.161s",
+                "date": "Wed Apr  7 23:26:44 2021"
+            }
+        ]
+    }
+}

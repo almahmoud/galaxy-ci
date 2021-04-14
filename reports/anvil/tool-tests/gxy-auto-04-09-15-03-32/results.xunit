@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="26"
+           errors="0"
+           failures="0"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_matrix/deeptools_compute_matrix/3.3.2.0.0 (Test #1)" name="0" time="57.37741422653198">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_matrix/deeptools_compute_matrix/3.3.2.0.0 (Test #2)" name="1" time="47.48919320106506">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/deeptools_compute_matrix/deeptools_compute_matrix/3.3.2.0.0 (Test #3)" name="2" time="46.3535373210907">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            A region that is shorter than the bin size (possibly only after accounting for unscaled regions) was found: (25) ca5 ch2:125:150. Skipping...A region that is shorter than the bin size (possibly only after accounting for unscaled regions) was found: (25) cda5 ch2:150:175. Skipping...A region that is shorter than the bin size (possibly only after accounting for unscaled regions) was found: (25) ca8 ch3:75:100. Skipping...A region that is shorter than the bin size (possibly only after accounting for unscaled regions) was found: (25) cda8 ch3:100:125. Skipping...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_CollectRnaSeqMetrics/2.18.2.2 (Test #1)" name="0" time="61.79269313812256">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:15.262 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so[Fri Apr 09 15:22:15 GMT 2021] CollectRnaSeqMetrics REF_FLAT=refFlat.tab STRAND_SPECIFICITY=NONE MINIMUM_LENGTH=500 CHART_OUTPUT=/galaxy/server/database/objects/1/6/7/dataset_16784929-ec07-4d7b-a9b1-50bec47e6b5f.dat RRNA_FRAGMENT_PERCENTAGE=0.8 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INPUT=picard_CollectRnaSeqMetrics_bam OUTPUT=/galaxy/server/database/objects/4/3/c/dataset_43ca8785-e775-4fc1-84f9-2303b8ea2c93.dat ASSUME_SORTED=true VALIDATION_STRINGENCY=LENIENT REFERENCE_SEQUENCE=localref.fa    STOP_AFTER=0 VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false[Fri Apr 09 15:22:15 GMT 2021] Executing as ?@gxy-4wpcl-7fzfh on Linux 4.19.112+ amd64; OpenJDK 64-Bit Server VM 1.8.0_121-b15; Deflater: Intel; Inflater: Intel; Provider GCS is not available; Picard version: 2.18.2-SNAPSHOTINFO2021-04-09 15:22:15CollectRnaSeqMetricsLoaded 20 genes.INFO2021-04-09 15:22:15RExecutorExecuting R script via command: Rscript /tmp/script4314270659524345787.R /galaxy/server/database/objects/4/3/c/dataset_43ca8785-e775-4fc1-84f9-2303b8ea2c93.dat /galaxy/server/database/objects/1/6/7/dataset_16784929-ec07-4d7b-a9b1-50bec47e6b5f.dat picard_CollectRnaSeqMetrics_bam ERROR2021-04-09 15:22:15ProcessExecutorDuring startup - Warning messages:ERROR2021-04-09 15:22:15ProcessExecutor1: Setting LC_CTYPE failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor2: Setting LC_COLLATE failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor3: Setting LC_TIME failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor4: Setting LC_MESSAGES failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor5: Setting LC_MONETARY failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor6: Setting LC_PAPER failed, using "C" ERROR2021-04-09 15:22:15ProcessExecutor7: Setting LC_MEASUREMENT failed, using "C" INFO2021-04-09 15:22:15ProcessExecutornull device INFO2021-04-09 15:22:15ProcessExecutor          1 [Fri Apr 09 15:22:15 GMT 2021] picard.analysis.CollectRnaSeqMetrics done. Elapsed time: 0.01 minutes.Runtime.totalMemory()=257425408
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_CollectRnaSeqMetrics/2.18.2.2 (Test #2)" name="1" time="51.910563945770264">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:29.381 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so[Fri Apr 09 15:22:29 GMT 2021] CollectRnaSeqMetrics REF_FLAT=refFlat.tab STRAND_SPECIFICITY=NONE MINIMUM_LENGTH=500 CHART_OUTPUT=/galaxy/server/database/objects/3/d/b/dataset_3dba2fec-61ce-4ac2-a36b-6cb257c582b4.dat RRNA_FRAGMENT_PERCENTAGE=0.8 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INPUT=picard_CollectRnaSeqMetrics_bam OUTPUT=/galaxy/server/database/objects/8/c/4/dataset_8c486124-4709-4c9c-9334-e69c223d5713.dat ASSUME_SORTED=true VALIDATION_STRINGENCY=LENIENT REFERENCE_SEQUENCE=localref.fa    STOP_AFTER=0 VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false[Fri Apr 09 15:22:29 GMT 2021] Executing as ?@gxy-hgjk4-rx52l on Linux 4.19.112+ amd64; OpenJDK 64-Bit Server VM 1.8.0_121-b15; Deflater: Intel; Inflater: Intel; Provider GCS is not available; Picard version: 2.18.2-SNAPSHOTINFO2021-04-09 15:22:29CollectRnaSeqMetricsLoaded 20 genes.INFO2021-04-09 15:22:29RExecutorExecuting R script via command: Rscript /tmp/script8055227697303480921.R /galaxy/server/database/objects/8/c/4/dataset_8c486124-4709-4c9c-9334-e69c223d5713.dat /galaxy/server/database/objects/3/d/b/dataset_3dba2fec-61ce-4ac2-a36b-6cb257c582b4.dat picard_CollectRnaSeqMetrics_bam ERROR2021-04-09 15:22:29ProcessExecutorDuring startup - Warning messages:ERROR2021-04-09 15:22:29ProcessExecutor1: Setting LC_CTYPE failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor2: Setting LC_COLLATE failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor3: Setting LC_TIME failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor4: Setting LC_MESSAGES failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor5: Setting LC_MONETARY failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor6: Setting LC_PAPER failed, using "C" ERROR2021-04-09 15:22:29ProcessExecutor7: Setting LC_MEASUREMENT failed, using "C" INFO2021-04-09 15:22:29ProcessExecutornull device INFO2021-04-09 15:22:29ProcessExecutor          1 [Fri Apr 09 15:22:29 GMT 2021] picard.analysis.CollectRnaSeqMetrics done. Elapsed time: 0.01 minutes.Runtime.totalMemory()=257425408
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_CollectRnaSeqMetrics/2.18.2.2 (Test #3)" name="2" time="42.29550838470459">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:24.864 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so[Fri Apr 09 15:22:24 GMT 2021] CollectRnaSeqMetrics REF_FLAT=refFlat.tab STRAND_SPECIFICITY=NONE MINIMUM_LENGTH=500 CHART_OUTPUT=/galaxy/server/database/objects/6/c/6/dataset_6c63c7f8-3777-4e99-8cf0-283e18f5ce6c.dat RRNA_FRAGMENT_PERCENTAGE=0.8 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INPUT=picard_CollectRnaSeqMetrics_bam OUTPUT=/galaxy/server/database/objects/0/6/3/dataset_0630b15e-71e3-45e6-8e0e-acfb27763f36.dat ASSUME_SORTED=true VALIDATION_STRINGENCY=LENIENT REFERENCE_SEQUENCE=localref.fa    STOP_AFTER=0 VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false[Fri Apr 09 15:22:24 GMT 2021] Executing as ?@gxy-m8mpv-fwg66 on Linux 4.19.112+ amd64; OpenJDK 64-Bit Server VM 1.8.0_121-b15; Deflater: Intel; Inflater: Intel; Provider GCS is not available; Picard version: 2.18.2-SNAPSHOTINFO2021-04-09 15:22:24CollectRnaSeqMetricsLoaded 37 genes.INFO2021-04-09 15:22:25RExecutorExecuting R script via command: Rscript /tmp/script5526028734859045373.R /galaxy/server/database/objects/0/6/3/dataset_0630b15e-71e3-45e6-8e0e-acfb27763f36.dat /galaxy/server/database/objects/6/c/6/dataset_6c63c7f8-3777-4e99-8cf0-283e18f5ce6c.dat picard_CollectRnaSeqMetrics_bam ERROR2021-04-09 15:22:25ProcessExecutorDuring startup - Warning messages:ERROR2021-04-09 15:22:25ProcessExecutor1: Setting LC_CTYPE failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor2: Setting LC_COLLATE failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor3: Setting LC_TIME failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor4: Setting LC_MESSAGES failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor5: Setting LC_MONETARY failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor6: Setting LC_PAPER failed, using "C" ERROR2021-04-09 15:22:25ProcessExecutor7: Setting LC_MEASUREMENT failed, using "C" INFO2021-04-09 15:22:25ProcessExecutornull device INFO2021-04-09 15:22:25ProcessExecutor          1 [Fri Apr 09 15:22:25 GMT 2021] picard.analysis.CollectRnaSeqMetrics done. Elapsed time: 0.01 minutes.Runtime.totalMemory()=257425408
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_CollectRnaSeqMetrics/2.18.2.2 (Test #4)" name="3" time="52.39339518547058">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:34.670 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so[Fri Apr 09 15:22:34 GMT 2021] CollectRnaSeqMetrics REF_FLAT=refFlat.tab STRAND_SPECIFICITY=NONE MINIMUM_LENGTH=500 CHART_OUTPUT=/galaxy/server/database/objects/5/c/e/dataset_5ceb5878-8f82-4c18-bf6e-0ffc14fc0d39.dat RRNA_FRAGMENT_PERCENTAGE=0.8 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INPUT=picard_CollectRnaSeqMetrics_bam OUTPUT=/galaxy/server/database/objects/c/0/5/dataset_c057c59a-d794-4f50-88d6-4cc14242bbfa.dat ASSUME_SORTED=true VALIDATION_STRINGENCY=LENIENT REFERENCE_SEQUENCE=localref.fa    STOP_AFTER=0 VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false[Fri Apr 09 15:22:34 GMT 2021] Executing as ?@gxy-sb67p-44ms9 on Linux 4.19.112+ amd64; OpenJDK 64-Bit Server VM 1.8.0_121-b15; Deflater: Intel; Inflater: Intel; Provider GCS is not available; Picard version: 2.18.2-SNAPSHOTINFO2021-04-09 15:22:34CollectRnaSeqMetricsLoaded 17 genes.INFO2021-04-09 15:22:34RExecutorExecuting R script via command: Rscript /tmp/script5794957199415332161.R /galaxy/server/database/objects/c/0/5/dataset_c057c59a-d794-4f50-88d6-4cc14242bbfa.dat /galaxy/server/database/objects/5/c/e/dataset_5ceb5878-8f82-4c18-bf6e-0ffc14fc0d39.dat picard_CollectRnaSeqMetrics_bam ERROR2021-04-09 15:22:35ProcessExecutorDuring startup - Warning messages:ERROR2021-04-09 15:22:35ProcessExecutor1: Setting LC_CTYPE failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor2: Setting LC_COLLATE failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor3: Setting LC_TIME failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor4: Setting LC_MESSAGES failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor5: Setting LC_MONETARY failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor6: Setting LC_PAPER failed, using "C" ERROR2021-04-09 15:22:35ProcessExecutor7: Setting LC_MEASUREMENT failed, using "C" INFO2021-04-09 15:22:35ProcessExecutornull device INFO2021-04-09 15:22:35ProcessExecutor          1 [Fri Apr 09 15:22:35 GMT 2021] picard.analysis.CollectRnaSeqMetrics done. Elapsed time: 0.01 minutes.Runtime.totalMemory()=257425408
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_SamToFastq/2.18.2.2 (Test #1)" name="0" time="36.21627116203308">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:49.208 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_SamToFastq/2.18.2.2 (Test #2)" name="1" time="35.36005687713623">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:49.816 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/picard/picard_SamToFastq/2.18.2.2 (Test #3)" name="2" time="27.510504722595215">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            /usr/local/bin/picard: line 5: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8): No such file or directoryPicked up _JAVA_OPTIONS: -Xmx2048m -Xms256m15:22:57.039 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/usr/local/share/picard-2.18.2-0/picard.jar!/com/intel/gkl/native/libgkl_compression.so
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/porechop/porechop/0.2.3 (Test #1)" name="0" time="60.38528299331665">
+        
+            
+            <system-out><![CDATA[
+            [1m[4mLoading reads[0m/galaxy/server/database/objects/3/9/7/dataset_397785bc-6f6f-4d50-b97d-2b7440c78367.dat9 reads loaded[1m[4mLooking for known adapter sets[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)                                        Best               [0m                                        read       Best    [0m                                        start      read end[0m  [4mSet                                   %ID        %ID     [0m  [32mSQK-NSK007                                96.4       95.5[0m  Rapid                                     62.5        0.0  SQK-MAP006                                62.2       63.6  SQK-MAP006 Short                          60.7       60.0  PCR adapters 1                            66.7       73.9  PCR tail 1                                63.3       63.3  PCR tail 2                                67.7       70.0  1D^2 part 1                               62.1       58.8  1D^2 part 2                               79.4       68.8  Barcode 1 (reverse)                       59.4       66.7  Barcode 2 (reverse)                       66.7       63.0  Barcode 3 (reverse)                       69.2       72.0  Barcode 4 (reverse)                       66.7       63.3  Barcode 5 (reverse)                       62.5       66.7  Barcode 6 (reverse)                       73.1       62.5  Barcode 7 (reverse)                       65.4       65.5  Barcode 8 (reverse)                       69.2       58.3  Barcode 9 (reverse)                       75.0       66.7  Barcode 10 (reverse)                      62.5       60.0  Barcode 11 (reverse)                      69.2       60.5  Barcode 12 (reverse)                      65.6       64.0  Barcode 1 (forward)                       65.4       61.5  Barcode 2 (forward)                       69.2       70.4  Barcode 3 (forward)                       73.1       68.0  Barcode 4 (forward)                       73.1       64.3  Barcode 5 (forward)                       62.5       66.7  Barcode 6 (forward)                       65.5       65.6  Barcode 7 (forward)                       73.1       66.7  Barcode 8 (forward)                       62.1       60.7  Barcode 9 (forward)                       68.0       70.8  Barcode 10 (forward)                      69.2       66.7  Barcode 11 (forward)                      65.4       60.7  Barcode 12 (forward)                      64.3       66.7  Barcode 13 (forward)                      64.3       69.2  Barcode 14 (forward)                      63.3       66.7  Barcode 15 (forward)                      66.7       66.7  Barcode 16 (forward)                      70.8       65.5  Barcode 17 (forward)                      69.2       66.7  Barcode 18 (forward)                      70.4       70.4  Barcode 19 (forward)                      65.5       64.0  Barcode 20 (forward)                      65.5       64.0  Barcode 21 (forward)                      64.3       66.7  Barcode 22 (forward)                      69.2       68.0  Barcode 23 (forward)                      61.5       66.7  Barcode 24 (forward)                      66.7       65.4  Barcode 25 (forward)                      64.0       65.5  Barcode 26 (forward)                      72.0       72.0  Barcode 27 (forward)                      77.8       60.7  Barcode 28 (forward)                      65.5       66.7  Barcode 29 (forward)                      62.5       66.7  Barcode 30 (forward)                      68.0       65.4  Barcode 31 (forward)                      62.5       69.2  Barcode 32 (forward)                      68.0       70.8  Barcode 33 (forward)                      62.5       70.4  Barcode 34 (forward)                      64.0       62.5  Barcode 35 (forward)                      65.5       65.4  Barcode 36 (forward)                      63.0       63.0  Barcode 37 (forward)                      67.9       64.3  Barcode 38 (forward)                      64.0       62.1  Barcode 39 (forward)                      64.0       69.2  Barcode 40 (forward)                      62.5       64.0  Barcode 41 (forward)                      68.0       65.5  Barcode 42 (forward)                      70.4       69.2  Barcode 43 (forward)                      63.3       63.3  Barcode 44 (forward)                      60.0       66.7  Barcode 45 (forward)                      73.1       65.4  Barcode 46 (forward)                      65.4       60.7  Barcode 47 (forward)                      65.5       64.0  Barcode 48 (forward)                      71.4       62.1  Barcode 49 (forward)                      69.2       62.1  Barcode 50 (forward)                      66.7       63.0  Barcode 51 (forward)                      69.2       64.3  Barcode 52 (forward)                      66.7       64.0  Barcode 53 (forward)                      67.9       69.0  Barcode 54 (forward)                      69.2       64.0  Barcode 55 (forward)                      66.7       73.1  Barcode 56 (forward)                      66.7       72.0  Barcode 57 (forward)                      69.0       60.0  Barcode 58 (forward)                      70.4       72.0  Barcode 59 (forward)                      56.7       66.7  Barcode 60 (forward)                      66.7       66.7  Barcode 61 (forward)                      70.8       65.5  Barcode 62 (forward)                      66.7       68.0  Barcode 63 (forward)                      66.7       60.7  Barcode 64 (forward)                      69.2       66.7  Barcode 65 (forward)                      61.5       69.0  Barcode 66 (forward)                      64.3       63.0  Barcode 67 (forward)                      66.7       67.9  Barcode 68 (forward)                      67.9       69.2  Barcode 69 (forward)                      69.2       75.0  Barcode 70 (forward)                      64.3       73.1  Barcode 71 (forward)                      64.0       71.4  Barcode 72 (forward)                      66.7       62.1  Barcode 73 (forward)                      67.7       64.0  Barcode 74 (forward)                      64.5       68.0  Barcode 75 (forward)                      65.4       65.5  Barcode 76 (forward)                      70.4       70.8  Barcode 77 (forward)                      65.4       64.3  Barcode 78 (forward)                      67.7       63.0  Barcode 79 (forward)                      70.8       69.2  Barcode 80 (forward)                      71.4       72.0  Barcode 81 (forward)                      68.0       66.7  Barcode 82 (forward)                      64.7       66.7  Barcode 83 (forward)                      69.2       68.0  Barcode 84 (forward)                      70.8       67.9  Barcode 85 (forward)                      61.5       60.0  Barcode 86 (forward)                      64.3       65.4  Barcode 87 (forward)                      66.7       65.4  Barcode 88 (forward)                      63.3       60.7  Barcode 89 (forward)                      69.2       66.7  Barcode 90 (forward)                      66.7       64.0  Barcode 91 (forward)                      68.0       64.3  Barcode 92 (forward)                      65.5       68.0  Barcode 93 (forward)                      69.2       73.1  Barcode 94 (forward)                      63.0       68.0  Barcode 95 (forward)                      64.0       63.3  Barcode 96 (forward)                      69.0       68.0[1m[4mTrimming adapters from read ends[0m     SQK-NSK007_Y_Top: [31mAATGTACTTCGTTCAGTTACGTATTGCT[0m  SQK-NSK007_Y_Bottom: [31mGCAATACGTAACTGAACGAAGT[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)4 / 9 reads had adapters trimmed from their start (74 bp removed)3 / 9 reads had adapters trimmed from their end (49 bp removed)[1m[4mSplitting reads containing middle adapters[0m0 / 9 (0.0%)9 / 9 (100.0%)10 / 9 (111.1%)9 / 9 (100.0%)4 / 9 reads were split based on middle adapters[1m[4mSaving trimmed reads to file[0mSaved result to /galaxy/server/database/jobs_directory/000/24/working/out.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/porechop/porechop/0.2.3 (Test #2)" name="1" time="35.40033984184265">
+        
+            
+            <system-out><![CDATA[
+            [1m[4mLoading reads[0m/galaxy/server/database/objects/d/3/9/dataset_d391a6a2-9bb9-424c-9621-51f143e9bf6b.dat9 reads loaded[1m[4mLooking for known adapter sets[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)                                        Best               [0m                                        read       Best    [0m                                        start      read end[0m  [4mSet                                   %ID        %ID     [0m  [32mSQK-NSK007                                96.4       95.5[0m  Rapid                                     62.5        0.0  SQK-MAP006                                62.2       63.6  SQK-MAP006 Short                          60.7       60.0  PCR adapters 1                            66.7       73.9  PCR tail 1                                63.3       63.3  PCR tail 2                                67.7       70.0  1D^2 part 1                               62.1       58.8  1D^2 part 2                               79.4       68.8  Barcode 1 (reverse)                       59.4       66.7  Barcode 2 (reverse)                       66.7       63.0  Barcode 3 (reverse)                       69.2       72.0  Barcode 4 (reverse)                       66.7       63.3  Barcode 5 (reverse)                       62.5       66.7  Barcode 6 (reverse)                       73.1       62.5  Barcode 7 (reverse)                       65.4       65.5  Barcode 8 (reverse)                       69.2       58.3  Barcode 9 (reverse)                       75.0       66.7  Barcode 10 (reverse)                      62.5       60.0  Barcode 11 (reverse)                      69.2       60.5  Barcode 12 (reverse)                      65.6       64.0  Barcode 1 (forward)                       65.4       61.5  Barcode 2 (forward)                       69.2       70.4  Barcode 3 (forward)                       73.1       68.0  Barcode 4 (forward)                       73.1       64.3  Barcode 5 (forward)                       62.5       66.7  Barcode 6 (forward)                       65.5       65.6  Barcode 7 (forward)                       73.1       66.7  Barcode 8 (forward)                       62.1       60.7  Barcode 9 (forward)                       68.0       70.8  Barcode 10 (forward)                      69.2       66.7  Barcode 11 (forward)                      65.4       60.7  Barcode 12 (forward)                      64.3       66.7  Barcode 13 (forward)                      64.3       69.2  Barcode 14 (forward)                      63.3       66.7  Barcode 15 (forward)                      66.7       66.7  Barcode 16 (forward)                      70.8       65.5  Barcode 17 (forward)                      69.2       66.7  Barcode 18 (forward)                      70.4       70.4  Barcode 19 (forward)                      65.5       64.0  Barcode 20 (forward)                      65.5       64.0  Barcode 21 (forward)                      64.3       66.7  Barcode 22 (forward)                      69.2       68.0  Barcode 23 (forward)                      61.5       66.7  Barcode 24 (forward)                      66.7       65.4  Barcode 25 (forward)                      64.0       65.5  Barcode 26 (forward)                      72.0       72.0  Barcode 27 (forward)                      77.8       60.7  Barcode 28 (forward)                      65.5       66.7  Barcode 29 (forward)                      62.5       66.7  Barcode 30 (forward)                      68.0       65.4  Barcode 31 (forward)                      62.5       69.2  Barcode 32 (forward)                      68.0       70.8  Barcode 33 (forward)                      62.5       70.4  Barcode 34 (forward)                      64.0       62.5  Barcode 35 (forward)                      65.5       65.4  Barcode 36 (forward)                      63.0       63.0  Barcode 37 (forward)                      67.9       64.3  Barcode 38 (forward)                      64.0       62.1  Barcode 39 (forward)                      64.0       69.2  Barcode 40 (forward)                      62.5       64.0  Barcode 41 (forward)                      68.0       65.5  Barcode 42 (forward)                      70.4       69.2  Barcode 43 (forward)                      63.3       63.3  Barcode 44 (forward)                      60.0       66.7  Barcode 45 (forward)                      73.1       65.4  Barcode 46 (forward)                      65.4       60.7  Barcode 47 (forward)                      65.5       64.0  Barcode 48 (forward)                      71.4       62.1  Barcode 49 (forward)                      69.2       62.1  Barcode 50 (forward)                      66.7       63.0  Barcode 51 (forward)                      69.2       64.3  Barcode 52 (forward)                      66.7       64.0  Barcode 53 (forward)                      67.9       69.0  Barcode 54 (forward)                      69.2       64.0  Barcode 55 (forward)                      66.7       73.1  Barcode 56 (forward)                      66.7       72.0  Barcode 57 (forward)                      69.0       60.0  Barcode 58 (forward)                      70.4       72.0  Barcode 59 (forward)                      56.7       66.7  Barcode 60 (forward)                      66.7       66.7  Barcode 61 (forward)                      70.8       65.5  Barcode 62 (forward)                      66.7       68.0  Barcode 63 (forward)                      66.7       60.7  Barcode 64 (forward)                      69.2       66.7  Barcode 65 (forward)                      61.5       69.0  Barcode 66 (forward)                      64.3       63.0  Barcode 67 (forward)                      66.7       67.9  Barcode 68 (forward)                      67.9       69.2  Barcode 69 (forward)                      69.2       75.0  Barcode 70 (forward)                      64.3       73.1  Barcode 71 (forward)                      64.0       71.4  Barcode 72 (forward)                      66.7       62.1  Barcode 73 (forward)                      67.7       64.0  Barcode 74 (forward)                      64.5       68.0  Barcode 75 (forward)                      65.4       65.5  Barcode 76 (forward)                      70.4       70.8  Barcode 77 (forward)                      65.4       64.3  Barcode 78 (forward)                      67.7       63.0  Barcode 79 (forward)                      70.8       69.2  Barcode 80 (forward)                      71.4       72.0  Barcode 81 (forward)                      68.0       66.7  Barcode 82 (forward)                      64.7       66.7  Barcode 83 (forward)                      69.2       68.0  Barcode 84 (forward)                      70.8       67.9  Barcode 85 (forward)                      61.5       60.0  Barcode 86 (forward)                      64.3       65.4  Barcode 87 (forward)                      66.7       65.4  Barcode 88 (forward)                      63.3       60.7  Barcode 89 (forward)                      69.2       66.7  Barcode 90 (forward)                      66.7       64.0  Barcode 91 (forward)                      68.0       64.3  Barcode 92 (forward)                      65.5       68.0  Barcode 93 (forward)                      69.2       73.1  Barcode 94 (forward)                      63.0       68.0  Barcode 95 (forward)                      64.0       63.3  Barcode 96 (forward)                      69.0       68.0[1m[4mTrimming adapters from read ends[0m     SQK-NSK007_Y_Top: [31mAATGTACTTCGTTCAGTTACGTATTGCT[0m  SQK-NSK007_Y_Bottom: [31mGCAATACGTAACTGAACGAAGT[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)4 / 9 reads had adapters trimmed from their start (74 bp removed)3 / 9 reads had adapters trimmed from their end (49 bp removed)[1m[4mSplitting reads containing middle adapters[0m0 / 9 (0.0%)9 / 9 (100.0%)10 / 9 (111.1%)9 / 9 (100.0%)4 / 9 reads were split based on middle adapters[1m[4mSaving trimmed reads to file[0mSaved result to /galaxy/server/database/jobs_directory/000/28/working/out.fastq
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/porechop/porechop/0.2.3 (Test #3)" name="2" time="61.382790327072144">
+        
+            
+            <system-out><![CDATA[
+            [1m[4mLoading reads[0m/galaxy/server/database/objects/d/3/9/dataset_d391a6a2-9bb9-424c-9621-51f143e9bf6b.dat9 reads loaded[1m[4mLooking for known adapter sets[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)                                        Best               [0m                                        read       Best    [0m                                        start      read end[0m  [4mSet                                   %ID        %ID     [0m  [32mSQK-NSK007                                96.4       95.5[0m  Rapid                                     62.5        0.0  SQK-MAP006                                62.2       63.6  SQK-MAP006 Short                          60.7       60.0  PCR adapters 1                            66.7       73.9  PCR tail 1                                63.3       63.3  PCR tail 2                                67.7       70.0  1D^2 part 1                               62.1       58.8  1D^2 part 2                               79.4       68.8  Barcode 1 (reverse)                       59.4       66.7  Barcode 2 (reverse)                       66.7       63.0  Barcode 3 (reverse)                       69.2       72.0  Barcode 4 (reverse)                       66.7       63.3  Barcode 5 (reverse)                       62.5       66.7  Barcode 6 (reverse)                       73.1       62.5  Barcode 7 (reverse)                       65.4       65.5  Barcode 8 (reverse)                       69.2       58.3  Barcode 9 (reverse)                       75.0       66.7  Barcode 10 (reverse)                      62.5       60.0  Barcode 11 (reverse)                      69.2       60.5  Barcode 12 (reverse)                      65.6       64.0  Barcode 1 (forward)                       65.4       61.5  Barcode 2 (forward)                       69.2       70.4  Barcode 3 (forward)                       73.1       68.0  Barcode 4 (forward)                       73.1       64.3  Barcode 5 (forward)                       62.5       66.7  Barcode 6 (forward)                       65.5       65.6  Barcode 7 (forward)                       73.1       66.7  Barcode 8 (forward)                       62.1       60.7  Barcode 9 (forward)                       68.0       70.8  Barcode 10 (forward)                      69.2       66.7  Barcode 11 (forward)                      65.4       60.7  Barcode 12 (forward)                      64.3       66.7  Barcode 13 (forward)                      64.3       69.2  Barcode 14 (forward)                      63.3       66.7  Barcode 15 (forward)                      66.7       66.7  Barcode 16 (forward)                      70.8       65.5  Barcode 17 (forward)                      69.2       66.7  Barcode 18 (forward)                      70.4       70.4  Barcode 19 (forward)                      65.5       64.0  Barcode 20 (forward)                      65.5       64.0  Barcode 21 (forward)                      64.3       66.7  Barcode 22 (forward)                      69.2       68.0  Barcode 23 (forward)                      61.5       66.7  Barcode 24 (forward)                      66.7       65.4  Barcode 25 (forward)                      64.0       65.5  Barcode 26 (forward)                      72.0       72.0  Barcode 27 (forward)                      77.8       60.7  Barcode 28 (forward)                      65.5       66.7  Barcode 29 (forward)                      62.5       66.7  Barcode 30 (forward)                      68.0       65.4  Barcode 31 (forward)                      62.5       69.2  Barcode 32 (forward)                      68.0       70.8  Barcode 33 (forward)                      62.5       70.4  Barcode 34 (forward)                      64.0       62.5  Barcode 35 (forward)                      65.5       65.4  Barcode 36 (forward)                      63.0       63.0  Barcode 37 (forward)                      67.9       64.3  Barcode 38 (forward)                      64.0       62.1  Barcode 39 (forward)                      64.0       69.2  Barcode 40 (forward)                      62.5       64.0  Barcode 41 (forward)                      68.0       65.5  Barcode 42 (forward)                      70.4       69.2  Barcode 43 (forward)                      63.3       63.3  Barcode 44 (forward)                      60.0       66.7  Barcode 45 (forward)                      73.1       65.4  Barcode 46 (forward)                      65.4       60.7  Barcode 47 (forward)                      65.5       64.0  Barcode 48 (forward)                      71.4       62.1  Barcode 49 (forward)                      69.2       62.1  Barcode 50 (forward)                      66.7       63.0  Barcode 51 (forward)                      69.2       64.3  Barcode 52 (forward)                      66.7       64.0  Barcode 53 (forward)                      67.9       69.0  Barcode 54 (forward)                      69.2       64.0  Barcode 55 (forward)                      66.7       73.1  Barcode 56 (forward)                      66.7       72.0  Barcode 57 (forward)                      69.0       60.0  Barcode 58 (forward)                      70.4       72.0  Barcode 59 (forward)                      56.7       66.7  Barcode 60 (forward)                      66.7       66.7  Barcode 61 (forward)                      70.8       65.5  Barcode 62 (forward)                      66.7       68.0  Barcode 63 (forward)                      66.7       60.7  Barcode 64 (forward)                      69.2       66.7  Barcode 65 (forward)                      61.5       69.0  Barcode 66 (forward)                      64.3       63.0  Barcode 67 (forward)                      66.7       67.9  Barcode 68 (forward)                      67.9       69.2  Barcode 69 (forward)                      69.2       75.0  Barcode 70 (forward)                      64.3       73.1  Barcode 71 (forward)                      64.0       71.4  Barcode 72 (forward)                      66.7       62.1  Barcode 73 (forward)                      67.7       64.0  Barcode 74 (forward)                      64.5       68.0  Barcode 75 (forward)                      65.4       65.5  Barcode 76 (forward)                      70.4       70.8  Barcode 77 (forward)                      65.4       64.3  Barcode 78 (forward)                      67.7       63.0  Barcode 79 (forward)                      70.8       69.2  Barcode 80 (forward)                      71.4       72.0  Barcode 81 (forward)                      68.0       66.7  Barcode 82 (forward)                      64.7       66.7  Barcode 83 (forward)                      69.2       68.0  Barcode 84 (forward)                      70.8       67.9  Barcode 85 (forward)                      61.5       60.0  Barcode 86 (forward)                      64.3       65.4  Barcode 87 (forward)                      66.7       65.4  Barcode 88 (forward)                      63.3       60.7  Barcode 89 (forward)                      69.2       66.7  Barcode 90 (forward)                      66.7       64.0  Barcode 91 (forward)                      68.0       64.3  Barcode 92 (forward)                      65.5       68.0  Barcode 93 (forward)                      69.2       73.1  Barcode 94 (forward)                      63.0       68.0  Barcode 95 (forward)                      64.0       63.3  Barcode 96 (forward)                      69.0       68.0[1m[4mTrimming adapters from read ends[0m     SQK-NSK007_Y_Top: [31mAATGTACTTCGTTCAGTTACGTATTGCT[0m  SQK-NSK007_Y_Bottom: [31mGCAATACGTAACTGAACGAAGT[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)4 / 9 reads had adapters trimmed from their start (74 bp removed)3 / 9 reads had adapters trimmed from their end (49 bp removed)[1m[4mSplitting reads containing middle adapters[0m0 / 9 (0.0%)9 / 9 (100.0%)10 / 9 (111.1%)9 / 9 (100.0%)4 / 9 reads were split based on middle adapters[1m[4mSaving trimmed reads to file[0mpigz not found - using gzip to compressSaved result to /galaxy/server/database/jobs_directory/000/29/working/out.fasta.gz
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/porechop/porechop/0.2.3 (Test #4)" name="3" time="56.514962673187256">
+        
+            
+            <system-out><![CDATA[
+            [1m[4mLoading reads[0m/galaxy/server/database/objects/d/3/9/dataset_d391a6a2-9bb9-424c-9621-51f143e9bf6b.dat9 reads loaded[1m[4mLooking for known adapter sets[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)                                        Best               [0m                                        read       Best    [0m                                        start      read end[0m  [4mSet                                   %ID        %ID     [0m  [32mSQK-NSK007                                96.4       95.5[0m  Rapid                                     62.5        0.0  SQK-MAP006                                62.2       63.6  SQK-MAP006 Short                          60.7       60.0  PCR adapters 1                            66.7       73.9  PCR tail 1                                63.3       63.3  PCR tail 2                                67.7       70.0  1D^2 part 1                               62.1       58.8  1D^2 part 2                               79.4       68.8  Barcode 1 (reverse)                       59.4       66.7  Barcode 2 (reverse)                       66.7       63.0  Barcode 3 (reverse)                       69.2       72.0  Barcode 4 (reverse)                       66.7       63.3  Barcode 5 (reverse)                       62.5       66.7  Barcode 6 (reverse)                       73.1       62.5  Barcode 7 (reverse)                       65.4       65.5  Barcode 8 (reverse)                       69.2       58.3  Barcode 9 (reverse)                       75.0       66.7  Barcode 10 (reverse)                      62.5       60.0  Barcode 11 (reverse)                      69.2       60.5  Barcode 12 (reverse)                      65.6       64.0  Barcode 1 (forward)                       65.4       61.5  Barcode 2 (forward)                       69.2       70.4  Barcode 3 (forward)                       73.1       68.0  Barcode 4 (forward)                       73.1       64.3  Barcode 5 (forward)                       62.5       66.7  Barcode 6 (forward)                       65.5       65.6  Barcode 7 (forward)                       73.1       66.7  Barcode 8 (forward)                       62.1       60.7  Barcode 9 (forward)                       68.0       70.8  Barcode 10 (forward)                      69.2       66.7  Barcode 11 (forward)                      65.4       60.7  Barcode 12 (forward)                      64.3       66.7  Barcode 13 (forward)                      64.3       69.2  Barcode 14 (forward)                      63.3       66.7  Barcode 15 (forward)                      66.7       66.7  Barcode 16 (forward)                      70.8       65.5  Barcode 17 (forward)                      69.2       66.7  Barcode 18 (forward)                      70.4       70.4  Barcode 19 (forward)                      65.5       64.0  Barcode 20 (forward)                      65.5       64.0  Barcode 21 (forward)                      64.3       66.7  Barcode 22 (forward)                      69.2       68.0  Barcode 23 (forward)                      61.5       66.7  Barcode 24 (forward)                      66.7       65.4  Barcode 25 (forward)                      64.0       65.5  Barcode 26 (forward)                      72.0       72.0  Barcode 27 (forward)                      77.8       60.7  Barcode 28 (forward)                      65.5       66.7  Barcode 29 (forward)                      62.5       66.7  Barcode 30 (forward)                      68.0       65.4  Barcode 31 (forward)                      62.5       69.2  Barcode 32 (forward)                      68.0       70.8  Barcode 33 (forward)                      62.5       70.4  Barcode 34 (forward)                      64.0       62.5  Barcode 35 (forward)                      65.5       65.4  Barcode 36 (forward)                      63.0       63.0  Barcode 37 (forward)                      67.9       64.3  Barcode 38 (forward)                      64.0       62.1  Barcode 39 (forward)                      64.0       69.2  Barcode 40 (forward)                      62.5       64.0  Barcode 41 (forward)                      68.0       65.5  Barcode 42 (forward)                      70.4       69.2  Barcode 43 (forward)                      63.3       63.3  Barcode 44 (forward)                      60.0       66.7  Barcode 45 (forward)                      73.1       65.4  Barcode 46 (forward)                      65.4       60.7  Barcode 47 (forward)                      65.5       64.0  Barcode 48 (forward)                      71.4       62.1  Barcode 49 (forward)                      69.2       62.1  Barcode 50 (forward)                      66.7       63.0  Barcode 51 (forward)                      69.2       64.3  Barcode 52 (forward)                      66.7       64.0  Barcode 53 (forward)                      67.9       69.0  Barcode 54 (forward)                      69.2       64.0  Barcode 55 (forward)                      66.7       73.1  Barcode 56 (forward)                      66.7       72.0  Barcode 57 (forward)                      69.0       60.0  Barcode 58 (forward)                      70.4       72.0  Barcode 59 (forward)                      56.7       66.7  Barcode 60 (forward)                      66.7       66.7  Barcode 61 (forward)                      70.8       65.5  Barcode 62 (forward)                      66.7       68.0  Barcode 63 (forward)                      66.7       60.7  Barcode 64 (forward)                      69.2       66.7  Barcode 65 (forward)                      61.5       69.0  Barcode 66 (forward)                      64.3       63.0  Barcode 67 (forward)                      66.7       67.9  Barcode 68 (forward)                      67.9       69.2  Barcode 69 (forward)                      69.2       75.0  Barcode 70 (forward)                      64.3       73.1  Barcode 71 (forward)                      64.0       71.4  Barcode 72 (forward)                      66.7       62.1  Barcode 73 (forward)                      67.7       64.0  Barcode 74 (forward)                      64.5       68.0  Barcode 75 (forward)                      65.4       65.5  Barcode 76 (forward)                      70.4       70.8  Barcode 77 (forward)                      65.4       64.3  Barcode 78 (forward)                      67.7       63.0  Barcode 79 (forward)                      70.8       69.2  Barcode 80 (forward)                      71.4       72.0  Barcode 81 (forward)                      68.0       66.7  Barcode 82 (forward)                      64.7       66.7  Barcode 83 (forward)                      69.2       68.0  Barcode 84 (forward)                      70.8       67.9  Barcode 85 (forward)                      61.5       60.0  Barcode 86 (forward)                      64.3       65.4  Barcode 87 (forward)                      66.7       65.4  Barcode 88 (forward)                      63.3       60.7  Barcode 89 (forward)                      69.2       66.7  Barcode 90 (forward)                      66.7       64.0  Barcode 91 (forward)                      68.0       64.3  Barcode 92 (forward)                      65.5       68.0  Barcode 93 (forward)                      69.2       73.1  Barcode 94 (forward)                      63.0       68.0  Barcode 95 (forward)                      64.0       63.3  Barcode 96 (forward)                      69.0       68.0[1m[4mTrimming adapters from read ends[0m     SQK-NSK007_Y_Top: [31mAATGTACTTCGTTCAGTTACGTATTGCT[0m  SQK-NSK007_Y_Bottom: [31mGCAATACGTAACTGAACGAAGT[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)4 / 9 reads had adapters trimmed from their start (74 bp removed)3 / 9 reads had adapters trimmed from their end (49 bp removed)[1m[4mSplitting reads containing middle adapters[0m0 / 9 (0.0%)9 / 9 (100.0%)10 / 9 (111.1%)9 / 9 (100.0%)4 / 9 reads were split based on middle adapters[1m[4mSaving trimmed reads to file[0mpigz not found - using gzip to compressSaved result to /galaxy/server/database/jobs_directory/000/30/working/out.fastq.gz
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/porechop/porechop/0.2.3 (Test #5)" name="4" time="36.16069674491882">
+        
+            
+            <system-out><![CDATA[
+            [1m[4mLoading reads[0m/galaxy/server/database/objects/2/8/8/dataset_28869829-f54c-4cc6-8dbb-a0d70cfce82f.dat9 reads loaded[1m[4mLooking for known adapter sets[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)                                        Best               [0m                                        read       Best    [0m                                        start      read end[0m  [4mSet                                   %ID        %ID     [0m  [32mSQK-NSK007                                96.4       95.5[0m  Rapid                                     62.5        0.0  SQK-MAP006                                58.8       63.6  SQK-MAP006 Short                          58.6       57.7  PCR adapters 1                            66.7       73.9  PCR tail 1                                63.3       63.3  PCR tail 2                                67.7       70.0  1D^2 part 1                               66.7       58.6  1D^2 part 2                               79.4       68.8  Barcode 1 (reverse)                       58.3       66.7  Barcode 2 (reverse)                       66.7       50.0  Barcode 3 (reverse)                       69.2       69.2  Barcode 4 (reverse)                       66.7       61.5  Barcode 5 (reverse)                       62.5       69.2  Barcode 6 (reverse)                       65.4       62.5  Barcode 7 (reverse)                       62.5       65.5  Barcode 8 (reverse)                       59.3       58.3  Barcode 9 (reverse)                       75.0       66.7  Barcode 10 (reverse)                      57.7       60.0  Barcode 11 (reverse)                      69.2       60.5  Barcode 12 (reverse)                      65.6       55.2  Barcode 1 (forward)                       65.4       62.1  Barcode 2 (forward)                       69.2       70.4  Barcode 3 (forward)                       65.4       68.0  Barcode 4 (forward)                       63.3       64.3  Barcode 5 (forward)                       57.1       56.0  Barcode 6 (forward)                       45.7       63.0  Barcode 7 (forward)                       73.1       62.1  Barcode 8 (forward)                       62.1       60.6  Barcode 9 (forward)                       64.3       66.7  Barcode 10 (forward)                      61.8       68.0  Barcode 11 (forward)                      65.4       60.7  Barcode 12 (forward)                      60.6       66.7  Barcode 13 (forward)                      64.5       69.2  Barcode 14 (forward)                      63.3       66.7  Barcode 15 (forward)                      66.7       66.7  Barcode 16 (forward)                      65.5       64.0  Barcode 17 (forward)                      69.2       66.7  Barcode 18 (forward)                      70.4       64.0  Barcode 19 (forward)                      64.5       63.0  Barcode 20 (forward)                      65.5       64.0  Barcode 21 (forward)                      64.3       66.7  Barcode 22 (forward)                      69.2       68.0  Barcode 23 (forward)                      57.9       65.5  Barcode 24 (forward)                      66.7       61.3  Barcode 25 (forward)                      59.4       68.0  Barcode 26 (forward)                      64.3       72.0  Barcode 27 (forward)                      61.3       59.4  Barcode 28 (forward)                      65.4       62.5  Barcode 29 (forward)                      57.7       62.5  Barcode 30 (forward)                      68.0       64.0  Barcode 31 (forward)                      62.1       61.5  Barcode 32 (forward)                      68.0       70.8  Barcode 33 (forward)                      46.2       70.4  Barcode 34 (forward)                      64.0       18.5  Barcode 35 (forward)                      64.3       65.4  Barcode 36 (forward)                      63.0       63.0  Barcode 37 (forward)                      67.9       64.3  Barcode 38 (forward)                      64.0       62.1  Barcode 39 (forward)                      61.5       62.5  Barcode 40 (forward)                      62.5       64.0  Barcode 41 (forward)                      68.0       65.5  Barcode 42 (forward)                      70.4       69.2  Barcode 43 (forward)                      63.3       62.5  Barcode 44 (forward)                      60.0       66.7  Barcode 45 (forward)                      73.1       65.4  Barcode 46 (forward)                      66.7       60.7  Barcode 47 (forward)                      64.3       61.5  Barcode 48 (forward)                      71.4       65.4  Barcode 49 (forward)                      69.2       62.1  Barcode 50 (forward)                      66.7       57.1  Barcode 51 (forward)                      69.2       59.3  Barcode 52 (forward)                      62.5       64.0  Barcode 53 (forward)                      65.4       69.0  Barcode 54 (forward)                      69.2       62.1  Barcode 55 (forward)                      66.7       73.1  Barcode 56 (forward)                      62.5       64.0  Barcode 57 (forward)                      66.7       55.6  Barcode 58 (forward)                      67.7       66.7  Barcode 59 (forward)                      56.7       59.4  Barcode 60 (forward)                      66.7       63.0  Barcode 61 (forward)                      70.8       65.5  Barcode 62 (forward)                      66.7       68.0  Barcode 63 (forward)                      66.7       62.5  Barcode 64 (forward)                      60.7       67.9  Barcode 65 (forward)                      61.5       62.5  Barcode 66 (forward)                      61.5       61.3  Barcode 67 (forward)                      66.7       60.0  Barcode 68 (forward)                      67.9       69.2  Barcode 69 (forward)                      65.5       66.7  Barcode 70 (forward)                      64.3       73.1  Barcode 71 (forward)                      60.7       71.4  Barcode 72 (forward)                      66.7       62.1  Barcode 73 (forward)                      67.7       63.6  Barcode 74 (forward)                      64.5       68.0  Barcode 75 (forward)                      65.4       65.5  Barcode 76 (forward)                      60.6       64.0  Barcode 77 (forward)                      65.4       62.1  Barcode 78 (forward)                      66.7       63.3  Barcode 79 (forward)                      70.8       66.7  Barcode 80 (forward)                      62.5       66.7  Barcode 81 (forward)                      68.0       66.7  Barcode 82 (forward)                      64.0       66.7  Barcode 83 (forward)                      64.0       68.0  Barcode 84 (forward)                      64.5       67.9  Barcode 85 (forward)                      61.5       58.3  Barcode 86 (forward)                      64.3       66.7  Barcode 87 (forward)                      66.7       65.5  Barcode 88 (forward)                      63.3       61.5  Barcode 89 (forward)                      69.0       66.7  Barcode 90 (forward)                      64.3       61.3  Barcode 91 (forward)                      53.3       64.0  Barcode 92 (forward)                      65.5       68.0  Barcode 93 (forward)                      63.3       71.4  Barcode 94 (forward)                      61.5       64.5  Barcode 95 (forward)                      62.1       63.3  Barcode 96 (forward)                      69.0       68.0[1m[4mTrimming adapters from read ends[0m     SQK-NSK007_Y_Top: [31mAATGTACTTCGTTCAGTTACGTATTGCT[0m  SQK-NSK007_Y_Bottom: [31mGCAATACGTAACTGAACGAAGT[0m0 / 9 (0.0%)9 / 9 (100.0%)9 / 9 (100.0%)4 / 9 reads had adapters trimmed from their start (70 bp removed)3 / 9 reads had adapters trimmed from their end (46 bp removed)[1m[4mDiscarding reads containing middle adapters[0m0 / 9 (0.0%)9 / 9 (100.0%)10 / 9 (111.1%)9 / 9 (100.0%)4 / 9 reads were discarded based on middle adapters[1m[4mSaving trimmed reads to file[0mSaved result to /galaxy/server/database/jobs_directory/000/32/working/out.fasta
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_hist/poretools_hist/0.6.1a1.1 (Test #1)" name="0" time="62.90353560447693">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_hist/poretools_hist/0.6.1a1.1 (Test #2)" name="1" time="61.94044518470764">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_hist/poretools_hist/0.6.1a1.1 (Test #3)" name="2" time="62.0729775428772">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_occupancy/poretools_occupancy/0.6.1a1.1 (Test #1)" name="0" time="63.95879817008972">
+        
+            
+            <system-out><![CDATA[
+            channel_numberstart_timeduration12814571276261128145712954941261457148908512614571297716
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_occupancy/poretools_occupancy/0.6.1a1.1 (Test #2)" name="1" time="52.050761699676514">
+        
+            
+            <system-out><![CDATA[
+            channel_numberstart_timeduration12814571276261128145712954941261457148908512614571297716
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_qualpos/poretools_qualpos/0.6.1a1.1 (Test #1)" name="0" time="52.09359383583069">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            INFO:poreminion:Processing data...INFO:poreminion:Constructing box plot...INFO:poreminion:Writing plot to file...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_qualpos/poretools_qualpos/0.6.1a1.1 (Test #2)" name="1" time="51.09612512588501">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            INFO:poreminion:Processing data...INFO:poreminion:Constructing box plot...INFO:poreminion:Writing plot to file...
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_squiggle/poretools_squiggle/0.6.1a1.1 (Test #1)" name="0" time="45.91344356536865">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_squiggle/poretools_squiggle/0.6.1a1.1 (Test #2)" name="1" time="53.51023602485657">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_yield_plot/poretools_yield_plot/0.6.1a1.1 (Test #1)" name="0" time="54.08391737937927">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/poretools_yield_plot/poretools_yield_plot/0.6.1a1.1 (Test #2)" name="1" time="53.95962333679199">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+</testsuite>

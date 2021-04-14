@@ -1,0 +1,101 @@
+{
+    "results": {
+        "deployments": [
+            {
+                "status": "deployed",
+                "time": "4m35.679s",
+                "date": "Wed Apr  7 05:14:26 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "3m47.187s",
+                "date": "Wed Apr  7 05:15:25 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m7.089s",
+                "date": "Wed Apr  7 03:17:48 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m5.372s",
+                "date": "Wed Apr  7 03:16:47 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m16.531s",
+                "date": "Wed Apr  7 00:24:19 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m9.230s",
+                "date": "Wed Apr  7 00:23:19 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m13.803s",
+                "date": "Tue Apr  6 23:09:40 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m35.456s",
+                "date": "Tue Apr  6 22:27:56 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m9.608s",
+                "date": "Tue Apr  6 22:26:53 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m1.909s",
+                "date": "Tue Apr  6 21:51:55 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m12.867s",
+                "date": "Tue Apr  6 21:51:00 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m12.380s",
+                "date": "Tue Apr  6 21:10:21 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m1.779s",
+                "date": "Tue Apr  6 21:09:12 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m33.286s",
+                "date": "Tue Apr  6 20:44:33 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "5m7.212s",
+                "date": "Tue Apr  6 20:43:23 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m22.077s",
+                "date": "Tue Apr  6 18:20:27 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "5m41.322s",
+                "date": "Tue Apr  6 17:27:05 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "3m44.643s",
+                "date": "Tue Apr  6 16:11:48 2021"
+            },
+            {
+                "status": "deployed",
+                "time": "4m21.763s",
+                "date": "Tue Apr  6 15:37:10 2021"
+            }
+        ]
+    }
+}

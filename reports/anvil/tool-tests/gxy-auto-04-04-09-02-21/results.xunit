@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Results (powered by Planemo)"
+           tests="42"
+           errors="40"
+           failures="0"
+           skip="0">
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #1)" name="0" time="1.2696750164031982">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.2696750164031982, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #2)" name="1" time="1.062936782836914">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 1.062936782836914, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #3)" name="2" time="1.1211955547332764">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 1.1211955547332764, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #4)" name="3" time="2.021655559539795">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 2.021655559539795, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #5)" name="4" time="1.176652193069458">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 1.176652193069458, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #6)" name="5" time="1.1718895435333252">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 5, "time_seconds": 1.1718895435333252, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1 (Test #7)" name="6" time="2.22741961479187">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 6, "time_seconds": 2.22741961479187, "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/salmon/salmon/1.3.0+galaxy1", "tool_version": "1.3.0+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/bamleftalign/1.3.1 (Test #1)" name="0" time="1.8759434223175049">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.8759434223175049, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/bamleftalign/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #1)" name="0" time="2.3923349380493164">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 2.3923349380493164, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #2)" name="1" time="2.3334617614746094">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 2.3334617614746094, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #3)" name="2" time="2.6916661262512207">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 2.6916661262512207, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #4)" name="3" time="2.3992505073547363">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 2.3992505073547363, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #5)" name="4" time="1.992340326309204">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 1.992340326309204, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #6)" name="5" time="1.9559452533721924">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 5, "time_seconds": 1.9559452533721924, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1 (Test #7)" name="6" time="1.956561803817749">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 6, "time_seconds": 1.956561803817749, "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/freebayes/freebayes/1.3.1", "tool_version": "1.3.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_getmasked/ivar_getmasked/1.2.2+galaxy0 (Test #1)" name="0" time="1.012343406677246">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.012343406677246, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_getmasked/ivar_getmasked/1.2.2+galaxy0", "tool_version": "1.2.2+galaxy0"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_removereads/ivar_removereads/1.2.2+galaxy1 (Test #1)" name="0" time="3.319378137588501">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 3.319378137588501, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_removereads/ivar_removereads/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1 (Test #1)" name="0" time="2.4916398525238037">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 2.4916398525238037, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1 (Test #2)" name="1" time="2.545583724975586">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 2.545583724975586, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1 (Test #3)" name="2" time="2.6246819496154785">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 2.6246819496154785, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1 (Test #4)" name="3" time="2.367753267288208">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 2.367753267288208, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1 (Test #5)" name="4" time="2.1262118816375732">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 2.1262118816375732, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/ivar_trim/ivar_trim/1.2.2+galaxy1", "tool_version": "1.2.2+galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1 (Test #1)" name="0" time="1.6772141456604004">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.6772141456604004, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1", "tool_version": "0.46.0.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1 (Test #2)" name="1" time="1.561384916305542">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 1.561384916305542, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1", "tool_version": "0.46.0.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1 (Test #3)" name="2" time="2.7255876064300537">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 2.7255876064300537, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1", "tool_version": "0.46.0.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1 (Test #4)" name="3" time="6.143415927886963">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 6.143415927886963, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1", "tool_version": "0.46.0.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1 (Test #5)" name="4" time="4.376725912094116">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 4.376725912094116, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_pseudo/kallisto_pseudo/0.46.0.1", "tool_version": "0.46.0.1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #1)" name="0" time="1.501028060913086">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.501028060913086, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #2)" name="1" time="1.5643889904022217">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 1.5643889904022217, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #3)" name="2" time="1.243173599243164">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 1.243173599243164, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #4)" name="3" time="1.212754487991333">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 1.212754487991333, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #5)" name="4" time="1.0852878093719482">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 1.0852878093719482, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #6)" name="5" time="1.3161296844482422">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 5, "time_seconds": 1.3161296844482422, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4 (Test #7)" name="6" time="1.7465267181396484">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 6, "time_seconds": 1.7465267181396484, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kallisto_quant/kallisto_quant/0.46.0.4", "tool_version": "0.46.0.4"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_get_chr_names/4.3+T.galaxy2 (Test #1)" name="0" time="41.960065841674805">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpeff/snpEff_get_chr_names/4.3+T.galaxy2 (Test #2)" name="1" time="30.724671125411987">
+        
+            
+            <system-out><![CDATA[
+            
+            ]]></system-out>
+            <system-err><![CDATA[
+            java.lang.RuntimeException: Property: 'should_not_match.genome' not foundat org.snpeff.interval.Genome.<init>(Genome.java:106)at org.snpeff.snpEffect.Config.readGenomeConfig(Config.java:681)at org.snpeff.snpEffect.Config.readConfig(Config.java:649)at org.snpeff.snpEffect.Config.init(Config.java:480)at org.snpeff.snpEffect.Config.<init>(Config.java:117)at org.snpeff.SnpEff.loadConfig(SnpEff.java:451)at org.snpeff.snpEffect.commandLine.SnpEffCmdDump.run(SnpEffCmdDump.java:183)at org.snpeff.SnpEff.run(SnpEff.java:1183)at org.snpeff.SnpEff.main(SnpEff.java:162)
+            ]]></system-err>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpeff_sars_cov_2/snpeff_sars_cov_2/4.5covid19 (Test #1)" name="0" time="1.2066586017608643">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.2066586017608643, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpeff_sars_cov_2/snpeff_sars_cov_2/4.5covid19", "tool_version": "4.5covid19"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1 (Test #1)" name="0" time="1.15372896194458">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 0, "time_seconds": 1.15372896194458, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1", "tool_version": "4.3+t.galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1 (Test #2)" name="1" time="1.5760371685028076">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 1, "time_seconds": 1.5760371685028076, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1", "tool_version": "4.3+t.galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1 (Test #3)" name="2" time="1.1597297191619873">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 2, "time_seconds": 1.1597297191619873, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1", "tool_version": "4.3+t.galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1 (Test #4)" name="3" time="1.0932247638702393">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 3, "time_seconds": 1.0932247638702393, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1", "tool_version": "4.3+t.galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+    <testcase classname="toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1 (Test #5)" name="4" time="1.3851943016052246">
+        
+            <error type="error" message="Input staging problem: Job in error state."><![CDATA[
+                { "execution_problem": "Input staging problem: Job in error state.", "status": "error", "test_index": 4, "time_seconds": 1.3851943016052246, "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/snpsift/snpSift_filter/4.3+t.galaxy1", "tool_version": "4.3+t.galaxy1"}
+            ]]></error>
+        
+    </testcase>
+    
+</testsuite>

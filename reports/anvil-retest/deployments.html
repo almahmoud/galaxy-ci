@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#deployments {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#deployments td, #deployments th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#deployments tr:nth-child(even){background-color: #f2f2f2;}
+
+#deployments tr:hover {background-color: #ddd;}
+
+#deployments th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+<img src="deployments.svg" />
+<table id="deployments"><thead><tr><th>Date</th><th>Status</th><th>GKM time</th></tr></thead><tbody><tr><td>Thu Apr  8 00:46:05 2021</td><td>deployed</td><td>5m13.330s</td></tr><tr><td>Wed Apr  7 23:26:44 2021</td><td>deployed</td><td>4m21.161s</td></tr></tbody></table>
+</body>
