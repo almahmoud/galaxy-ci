@@ -1,5 +1,6 @@
 name: Test auth
 on:
+  workflow_dispatch: {}
   push:
     branches:
       - 'attractive-lemming'
